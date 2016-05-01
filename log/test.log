@@ -1,0 +1,3005 @@
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.5ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.5ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.5ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.5ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.5ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.5ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.5ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.5ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.5ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.5ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.5ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.5ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.5ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.5ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.5ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.5ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.5ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.5ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.5ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.5ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.5ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.5ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.5ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.5ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.5ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.5ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.5ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.5ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.5ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.5ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.5ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.5ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.5ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.5ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.5ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.5ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.5ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.5ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.5ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.5ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.5ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Overwriting existing field _id in class RacerInfo.
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.5ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.5ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+Overwriting existing field _id in class RacerInfo.
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Overwriting existing field _id in class RacerInfo.
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.5ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.5ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.5ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.5ms)[0m  rollback transaction
+  [1m[36m (1.5ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Overwriting existing field _id in class RacerInfo.
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.5ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.5ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.5ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.5ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.5ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+Overwriting existing field _id in class RacerInfo.
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.5ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Overwriting existing field _id in class RacerInfo.
+  [1m[35m (0.5ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+Overwriting existing field _id in class RacerInfo.
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+Overwriting existing field _id in class RacerInfo.
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+Overwriting existing field _id in class RacerInfo.
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+Overwriting existing field _id in class RacerInfo.
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Overwriting existing field _id in class RacerInfo.
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+Overwriting existing field _id in class RacerInfo.
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+Overwriting existing field _id in class RacerInfo.
+  [1m[35m (0.5ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.5ms)[0m  rollback transaction
+Overwriting existing field _id in class RacerInfo.
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.5ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+Started GET "/racers" for 127.0.0.1 at 2016-04-21 16:44:43 -0500
+Processing by RacersController#index as HTML
+Overwriting existing field _id in class RacerInfo.
+  Rendered racers/index.html.erb within layouts/application (100.7ms)
+Completed 200 OK in 867ms (Views: 840.9ms | ActiveRecord: 0.0ms)
+Started GET "/racers/56a6b4341d41c81576000190" for 127.0.0.1 at 2016-04-21 16:44:44 -0500
+Processing by RacersController#show as HTML
+  Parameters: {"id"=>"56a6b4341d41c81576000190"}
+  Rendered racers/show.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 11ms (Views: 8.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/races" for 127.0.0.1 at 2016-04-21 17:10:32 -0500
+Processing by RacesController#index as HTML
+  Rendered races/index.html.erb within layouts/application (263.9ms)
+Completed 200 OK in 716ms (Views: 684.1ms | ActiveRecord: 0.0ms)
+Started GET "/races/56a6b4331d41c8157600011c" for 127.0.0.1 at 2016-04-21 17:10:33 -0500
+Processing by RacesController#show as HTML
+  Parameters: {"id"=>"56a6b4331d41c8157600011c"}
+  Rendered races/show.html.erb within layouts/application (3.5ms)
+Completed 200 OK in 14ms (Views: 10.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.5ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/races/56a6b4341d41c81576000154" for 127.0.0.1 at 2016-04-21 17:30:59 -0500
+Processing by RacesController#show as HTML
+  Parameters: {"id"=>"56a6b4341d41c81576000154"}
+Overwriting existing field _id in class RacerInfo.
+  Rendered races/show.html.erb within layouts/application (162.3ms)
+Completed 200 OK in 516ms (Views: 488.8ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/races/56a6b4341d41c81576000154" for 127.0.0.1 at 2016-04-21 17:31:00 -0500
+Processing by RacesController#show as HTML
+  Parameters: {"id"=>"56a6b4341d41c81576000154"}
+  Rendered races/show.html.erb within layouts/application (74.6ms)
+Completed 200 OK in 80ms (Views: 77.6ms | ActiveRecord: 0.0ms)
+Started GET "/racers/56a6b4341d41c815760001d5" for 127.0.0.1 at 2016-04-21 17:31:00 -0500
+Processing by RacersController#show as HTML
+  Parameters: {"id"=>"56a6b4341d41c815760001d5"}
+  Rendered racers/show.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 11ms (Views: 8.0ms | ActiveRecord: 0.0ms)
+Started GET "/races/56a6b4341d41c81576000154" for 127.0.0.1 at 2016-04-21 17:31:00 -0500
+Processing by RacesController#show as HTML
+  Parameters: {"id"=>"56a6b4341d41c81576000154"}
+  Rendered races/show.html.erb within layouts/application (76.1ms)
+Completed 200 OK in 82ms (Views: 79.1ms | ActiveRecord: 0.0ms)
+Started GET "/racers/56a6b4341d41c815760001d6" for 127.0.0.1 at 2016-04-21 17:31:00 -0500
+Processing by RacersController#show as HTML
+  Parameters: {"id"=>"56a6b4341d41c815760001d6"}
+  Rendered racers/show.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 5ms (Views: 3.5ms | ActiveRecord: 0.0ms)
+Started GET "/races/56a6b4341d41c81576000154" for 127.0.0.1 at 2016-04-21 17:31:00 -0500
+Processing by RacesController#show as HTML
+  Parameters: {"id"=>"56a6b4341d41c81576000154"}
+  Rendered races/show.html.erb within layouts/application (57.6ms)
+Completed 200 OK in 62ms (Views: 59.6ms | ActiveRecord: 0.0ms)
+Started GET "/racers/56a6b4341d41c815760001d7" for 127.0.0.1 at 2016-04-21 17:31:00 -0500
+Processing by RacersController#show as HTML
+  Parameters: {"id"=>"56a6b4341d41c815760001d7"}
+  Rendered racers/show.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 5ms (Views: 3.0ms | ActiveRecord: 0.0ms)
+Started GET "/races/56a6b4341d41c81576000154" for 127.0.0.1 at 2016-04-21 17:31:00 -0500
+Processing by RacesController#show as HTML
+  Parameters: {"id"=>"56a6b4341d41c81576000154"}
+  Rendered races/show.html.erb within layouts/application (60.6ms)
+Completed 200 OK in 66ms (Views: 63.1ms | ActiveRecord: 0.0ms)
+Started GET "/racers/56a6b4341d41c815760001d8" for 127.0.0.1 at 2016-04-21 17:31:00 -0500
+Processing by RacersController#show as HTML
+  Parameters: {"id"=>"56a6b4341d41c815760001d8"}
+  Rendered racers/show.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 5ms (Views: 3.0ms | ActiveRecord: 0.0ms)
+Started GET "/races/56a6b4341d41c81576000154" for 127.0.0.1 at 2016-04-21 17:31:00 -0500
+Processing by RacesController#show as HTML
+  Parameters: {"id"=>"56a6b4341d41c81576000154"}
+  Rendered races/show.html.erb within layouts/application (64.6ms)
+Completed 200 OK in 69ms (Views: 67.1ms | ActiveRecord: 0.0ms)
+Started GET "/racers/56a6b4341d41c815760001d9" for 127.0.0.1 at 2016-04-21 17:31:00 -0500
+Processing by RacersController#show as HTML
+  Parameters: {"id"=>"56a6b4341d41c815760001d9"}
+  Rendered racers/show.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 5ms (Views: 3.0ms | ActiveRecord: 0.0ms)
+Started GET "/races/56a6b4341d41c81576000154" for 127.0.0.1 at 2016-04-21 17:31:00 -0500
+Processing by RacesController#show as HTML
+  Parameters: {"id"=>"56a6b4341d41c81576000154"}
+  Rendered races/show.html.erb within layouts/application (59.6ms)
+Completed 200 OK in 65ms (Views: 62.1ms | ActiveRecord: 0.0ms)
+Started GET "/racers/56a6b4341d41c815760001da" for 127.0.0.1 at 2016-04-21 17:31:00 -0500
+Processing by RacersController#show as HTML
+  Parameters: {"id"=>"56a6b4341d41c815760001da"}
+  Rendered racers/show.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 6ms (Views: 4.5ms | ActiveRecord: 0.0ms)
+Started GET "/races/56a6b4341d41c81576000154" for 127.0.0.1 at 2016-04-21 17:31:00 -0500
+Processing by RacesController#show as HTML
+  Parameters: {"id"=>"56a6b4341d41c81576000154"}
+  Rendered races/show.html.erb within layouts/application (57.1ms)
+Completed 200 OK in 62ms (Views: 59.6ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Overwriting existing field _id in class RacerInfo.
+Started GET "/racers/56a6b4341d41c815760001d5" for 127.0.0.1 at 2016-04-21 17:54:07 -0500
+Processing by RacersController#show as HTML
+  Parameters: {"id"=>"56a6b4341d41c815760001d5"}
+  Rendered racers/show.html.erb within layouts/application (27.5ms)
+Completed 200 OK in 449ms (Views: 415.2ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.5ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/racers/56a6b4341d41c815760001d5" for 127.0.0.1 at 2016-04-21 17:54:08 -0500
+Processing by RacersController#show as HTML
+  Parameters: {"id"=>"56a6b4341d41c815760001d5"}
+  Rendered racers/show.html.erb within layouts/application (3.5ms)
+Completed 200 OK in 9ms (Views: 5.5ms | ActiveRecord: 0.0ms)
+Started GET "/races/56a6b4341d41c81576000154" for 127.0.0.1 at 2016-04-21 17:54:08 -0500
+Processing by RacesController#show as HTML
+  Parameters: {"id"=>"56a6b4341d41c81576000154"}
+  Rendered races/show.html.erb within layouts/application (109.7ms)
+Completed 200 OK in 119ms (Views: 116.7ms | ActiveRecord: 0.0ms)
+Started GET "/racers/56a6b4341d41c815760001d5" for 127.0.0.1 at 2016-04-21 17:54:08 -0500
+Processing by RacersController#show as HTML
+  Parameters: {"id"=>"56a6b4341d41c815760001d5"}
+  Rendered racers/show.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 9ms (Views: 6.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.5ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+Started GET "/racers/56a6b4341d41c81576000190/edit" for 127.0.0.1 at 2016-04-21 18:20:37 -0500
+Processing by RacersController#edit as HTML
+  Parameters: {"id"=>"56a6b4341d41c81576000190"}
+Overwriting existing field _id in class RacerInfo.
+  Rendered racers/_form.html.erb (165.8ms)
+  Rendered racers/edit.html.erb within layouts/application (186.3ms)
+Completed 200 OK in 617ms (Views: 581.0ms | ActiveRecord: 0.0ms)
+Started POST "/racers/56a6b4341d41c81576000190/entries?race_id=56a6b4331d41c81576000070" for 127.0.0.1 at 2016-04-21 18:20:38 -0500
+Processing by RacersController#create_entry as HTML
+  Parameters: {"race_id"=>"56a6b4331d41c81576000070", "racer_id"=>"56a6b4341d41c81576000190"}
+Redirected to http://www.example.com/racers/56a6b4341d41c81576000190
+Completed 302 Found in 39ms (ActiveRecord: 0.0ms)
+Started GET "/racers/56a6b4341d41c81576000190" for 127.0.0.1 at 2016-04-21 18:20:38 -0500
+Processing by RacersController#show as HTML
+  Parameters: {"id"=>"56a6b4341d41c81576000190"}
+  Rendered racers/show.html.erb within layouts/application (5.5ms)
+Completed 200 OK in 16ms (Views: 12.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.5ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started POST "/racers/56a6b4341d41c81576000190/entries?race_id=56a6b4331d41c81576000070" for 127.0.0.1 at 2016-04-21 18:22:32 -0500
+Processing by RacersController#create_entry as HTML
+  Parameters: {"race_id"=>"56a6b4331d41c81576000070", "racer_id"=>"56a6b4341d41c81576000190"}
+Overwriting existing field _id in class RacerInfo.
+Redirected to http://www.example.com/racers/56a6b4341d41c81576000190
+Completed 302 Found in 118ms (ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+Overwriting existing field _id in class RacerInfo.
+Started GET "/api/races/5722375b7cfc5a41b07dc43b/results" for 127.0.0.1 at 2016-04-28 11:16:31 -0500
+
+ActionController::RoutingError (No route matches [GET] "/api/races/5722375b7cfc5a41b07dc43b/results"):
+  actionpack (4.2.4) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.2.4) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.4) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.4) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.4) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.4) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.4) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.4) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.4) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.4) lib/action_dispatch/middleware/static.rb:116:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.4) lib/rails/engine.rb:518:in `call'
+  railties (4.2.4) lib/rails/application.rb:165:in `call'
+  rack (1.6.4) lib/rack/urlmap.rb:66:in `block in call'
+  rack (1.6.4) lib/rack/urlmap.rb:50:in `each'
+  rack (1.6.4) lib/rack/urlmap.rb:50:in `call'
+  rack-test (0.6.3) lib/rack/mock_session.rb:30:in `request'
+  rack-test (0.6.3) lib/rack/test.rb:244:in `process_request'
+  rack-test (0.6.3) lib/rack/test.rb:58:in `get'
+  C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/forwardable.rb:183:in `get'
+  capybara (2.7.0) lib/capybara/rack_test/driver.rb:95:in `get'
+  spec/caching_spec.rb:38:in `block (3 levels) in <top (required)>'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:236:in `instance_exec'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:236:in `block in run'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:478:in `block in with_around_and_singleton_context_hooks'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:435:in `block in with_around_example_hooks'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:478:in `block in run'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:618:in `block in run_around_example_hooks_for'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:320:in `call'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:320:in `call'
+  spec/caching_spec.rb:24:in `block (2 levels) in <top (required)>'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:425:in `instance_exec'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:425:in `instance_exec'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:389:in `execute_with'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:620:in `block (2 levels) in run_around_example_hooks_for'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:320:in `call'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:320:in `call'
+  rspec-rails (3.4.2) lib/rspec/rails/adapters.rb:127:in `block (2 levels) in <module:MinitestLifecycleAdapter>'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:425:in `instance_exec'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:425:in `instance_exec'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:389:in `execute_with'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:620:in `block (2 levels) in run_around_example_hooks_for'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:320:in `call'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:320:in `call'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:621:in `run_around_example_hooks_for'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:478:in `run'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:435:in `with_around_example_hooks'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:478:in `with_around_and_singleton_context_hooks'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:233:in `run'
+  rspec-core (3.4.4) lib/rspec/core/example_group.rb:581:in `block in run_examples'
+  rspec-core (3.4.4) lib/rspec/core/example_group.rb:577:in `map'
+  rspec-core (3.4.4) lib/rspec/core/example_group.rb:577:in `run_examples'
+  rspec-core (3.4.4) lib/rspec/core/example_group.rb:543:in `run'
+  rspec-core (3.4.4) lib/rspec/core/example_group.rb:544:in `block in run'
+  rspec-core (3.4.4) lib/rspec/core/example_group.rb:544:in `map'
+  rspec-core (3.4.4) lib/rspec/core/example_group.rb:544:in `run'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:119:in `block (3 levels) in run_specs'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:119:in `map'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:119:in `block (2 levels) in run_specs'
+  rspec-core (3.4.4) lib/rspec/core/configuration.rb:1680:in `with_suite_hooks'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:118:in `block in run_specs'
+  rspec-core (3.4.4) lib/rspec/core/reporter.rb:77:in `report'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:117:in `run_specs'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:93:in `run'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:78:in `run'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:45:in `invoke'
+  rspec-core (3.4.4) exe/rspec:4:in `<top (required)>'
+  C:/RailsInstaller/Ruby2.1.0/bin/rspec:23:in `load'
+  C:/RailsInstaller/Ruby2.1.0/bin/rspec:23:in `<main>'
+
+
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+Started PUT "/api/races/5722375f7cfc5a41b07dc66b" for 127.0.0.1 at 2016-04-28 11:16:31 -0500
+
+ActionController::RoutingError (No route matches [PUT] "/api/races/5722375f7cfc5a41b07dc66b"):
+  actionpack (4.2.4) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.2.4) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.4) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.4) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.4) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.4) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.4) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.4) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.4) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.4) lib/action_dispatch/middleware/static.rb:116:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.4) lib/rails/engine.rb:518:in `call'
+  railties (4.2.4) lib/rails/application.rb:165:in `call'
+  rack (1.6.4) lib/rack/urlmap.rb:66:in `block in call'
+  rack (1.6.4) lib/rack/urlmap.rb:50:in `each'
+  rack (1.6.4) lib/rack/urlmap.rb:50:in `call'
+  rack-test (0.6.3) lib/rack/mock_session.rb:30:in `request'
+  rack-test (0.6.3) lib/rack/test.rb:244:in `process_request'
+  rack-test (0.6.3) lib/rack/test.rb:76:in `put'
+  C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/forwardable.rb:183:in `put'
+  capybara (2.7.0) lib/capybara/rack_test/driver.rb:97:in `put'
+  spec/errors_spec.rb:34:in `block (3 levels) in <top (required)>'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:236:in `instance_exec'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:236:in `block in run'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:478:in `block in with_around_and_singleton_context_hooks'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:435:in `block in with_around_example_hooks'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:478:in `block in run'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:618:in `block in run_around_example_hooks_for'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:320:in `call'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:320:in `call'
+  spec/errors_spec.rb:21:in `block (2 levels) in <top (required)>'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:425:in `instance_exec'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:425:in `instance_exec'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:389:in `execute_with'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:620:in `block (2 levels) in run_around_example_hooks_for'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:320:in `call'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:320:in `call'
+  rspec-rails (3.4.2) lib/rspec/rails/adapters.rb:127:in `block (2 levels) in <module:MinitestLifecycleAdapter>'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:425:in `instance_exec'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:425:in `instance_exec'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:389:in `execute_with'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:620:in `block (2 levels) in run_around_example_hooks_for'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:320:in `call'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:320:in `call'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:621:in `run_around_example_hooks_for'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:478:in `run'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:435:in `with_around_example_hooks'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:478:in `with_around_and_singleton_context_hooks'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:233:in `run'
+  rspec-core (3.4.4) lib/rspec/core/example_group.rb:581:in `block in run_examples'
+  rspec-core (3.4.4) lib/rspec/core/example_group.rb:577:in `map'
+  rspec-core (3.4.4) lib/rspec/core/example_group.rb:577:in `run_examples'
+  rspec-core (3.4.4) lib/rspec/core/example_group.rb:543:in `run'
+  rspec-core (3.4.4) lib/rspec/core/example_group.rb:544:in `block in run'
+  rspec-core (3.4.4) lib/rspec/core/example_group.rb:544:in `map'
+  rspec-core (3.4.4) lib/rspec/core/example_group.rb:544:in `run'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:119:in `block (3 levels) in run_specs'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:119:in `map'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:119:in `block (2 levels) in run_specs'
+  rspec-core (3.4.4) lib/rspec/core/configuration.rb:1680:in `with_suite_hooks'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:118:in `block in run_specs'
+  rspec-core (3.4.4) lib/rspec/core/reporter.rb:77:in `report'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:117:in `run_specs'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:93:in `run'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:78:in `run'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:45:in `invoke'
+  rspec-core (3.4.4) exe/rspec:4:in `<top (required)>'
+  C:/RailsInstaller/Ruby2.1.0/bin/rspec:23:in `load'
+  C:/RailsInstaller/Ruby2.1.0/bin/rspec:23:in `<main>'
+
+
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started POST "/api/races" for 127.0.0.1 at 2016-04-28 11:16:31 -0500
+
+ActionController::RoutingError (No route matches [POST] "/api/races"):
+  actionpack (4.2.4) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.2.4) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.4) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.4) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.4) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.4) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.4) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.4) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.4) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.4) lib/action_dispatch/middleware/static.rb:116:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.4) lib/rails/engine.rb:518:in `call'
+  railties (4.2.4) lib/rails/application.rb:165:in `call'
+  rack (1.6.4) lib/rack/urlmap.rb:66:in `block in call'
+  rack (1.6.4) lib/rack/urlmap.rb:50:in `each'
+  rack (1.6.4) lib/rack/urlmap.rb:50:in `call'
+  rack-test (0.6.3) lib/rack/mock_session.rb:30:in `request'
+  rack-test (0.6.3) lib/rack/test.rb:244:in `process_request'
+  rack-test (0.6.3) lib/rack/test.rb:67:in `post'
+  C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/forwardable.rb:183:in `post'
+  capybara (2.7.0) lib/capybara/rack_test/driver.rb:96:in `post'
+  spec/methods_spec.rb:33:in `block (3 levels) in <top (required)>'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:236:in `instance_exec'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:236:in `block in run'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:478:in `block in with_around_and_singleton_context_hooks'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:435:in `block in with_around_example_hooks'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:478:in `block in run'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:618:in `block in run_around_example_hooks_for'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:320:in `call'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:320:in `call'
+  spec/methods_spec.rb:21:in `block (2 levels) in <top (required)>'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:425:in `instance_exec'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:425:in `instance_exec'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:389:in `execute_with'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:620:in `block (2 levels) in run_around_example_hooks_for'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:320:in `call'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:320:in `call'
+  rspec-rails (3.4.2) lib/rspec/rails/adapters.rb:127:in `block (2 levels) in <module:MinitestLifecycleAdapter>'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:425:in `instance_exec'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:425:in `instance_exec'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:389:in `execute_with'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:620:in `block (2 levels) in run_around_example_hooks_for'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:320:in `call'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:320:in `call'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:621:in `run_around_example_hooks_for'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:478:in `run'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:435:in `with_around_example_hooks'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:478:in `with_around_and_singleton_context_hooks'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:233:in `run'
+  rspec-core (3.4.4) lib/rspec/core/example_group.rb:581:in `block in run_examples'
+  rspec-core (3.4.4) lib/rspec/core/example_group.rb:577:in `map'
+  rspec-core (3.4.4) lib/rspec/core/example_group.rb:577:in `run_examples'
+  rspec-core (3.4.4) lib/rspec/core/example_group.rb:543:in `run'
+  rspec-core (3.4.4) lib/rspec/core/example_group.rb:544:in `block in run'
+  rspec-core (3.4.4) lib/rspec/core/example_group.rb:544:in `map'
+  rspec-core (3.4.4) lib/rspec/core/example_group.rb:544:in `run'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:119:in `block (3 levels) in run_specs'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:119:in `map'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:119:in `block (2 levels) in run_specs'
+  rspec-core (3.4.4) lib/rspec/core/configuration.rb:1680:in `with_suite_hooks'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:118:in `block in run_specs'
+  rspec-core (3.4.4) lib/rspec/core/reporter.rb:77:in `report'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:117:in `run_specs'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:93:in `run'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:78:in `run'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:45:in `invoke'
+  rspec-core (3.4.4) exe/rspec:4:in `<top (required)>'
+  C:/RailsInstaller/Ruby2.1.0/bin/rspec:23:in `load'
+  C:/RailsInstaller/Ruby2.1.0/bin/rspec:23:in `<main>'
+
+
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/api/races?offset=10&limit=50" for 127.0.0.1 at 2016-04-28 11:16:31 -0500
+
+ActionController::RoutingError (No route matches [GET] "/api/races"):
+  actionpack (4.2.4) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.2.4) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.4) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.4) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.4) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.4) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.4) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.4) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.4) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.4) lib/action_dispatch/middleware/static.rb:116:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.4) lib/rails/engine.rb:518:in `call'
+  railties (4.2.4) lib/rails/application.rb:165:in `call'
+  rack (1.6.4) lib/rack/urlmap.rb:66:in `block in call'
+  rack (1.6.4) lib/rack/urlmap.rb:50:in `each'
+  rack (1.6.4) lib/rack/urlmap.rb:50:in `call'
+  rack-test (0.6.3) lib/rack/mock_session.rb:30:in `request'
+  rack-test (0.6.3) lib/rack/test.rb:244:in `process_request'
+  rack-test (0.6.3) lib/rack/test.rb:58:in `get'
+  C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/forwardable.rb:183:in `get'
+  capybara (2.7.0) lib/capybara/rack_test/driver.rb:95:in `get'
+  spec/params_spec.rb:30:in `block (3 levels) in <top (required)>'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:236:in `instance_exec'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:236:in `block in run'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:478:in `block in with_around_and_singleton_context_hooks'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:435:in `block in with_around_example_hooks'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:478:in `block in run'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:618:in `block in run_around_example_hooks_for'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:320:in `call'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:320:in `call'
+  spec/params_spec.rb:17:in `block (2 levels) in <top (required)>'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:425:in `instance_exec'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:425:in `instance_exec'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:389:in `execute_with'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:620:in `block (2 levels) in run_around_example_hooks_for'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:320:in `call'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:320:in `call'
+  rspec-rails (3.4.2) lib/rspec/rails/adapters.rb:127:in `block (2 levels) in <module:MinitestLifecycleAdapter>'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:425:in `instance_exec'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:425:in `instance_exec'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:389:in `execute_with'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:620:in `block (2 levels) in run_around_example_hooks_for'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:320:in `call'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:320:in `call'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:621:in `run_around_example_hooks_for'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:478:in `run'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:435:in `with_around_example_hooks'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:478:in `with_around_and_singleton_context_hooks'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:233:in `run'
+  rspec-core (3.4.4) lib/rspec/core/example_group.rb:581:in `block in run_examples'
+  rspec-core (3.4.4) lib/rspec/core/example_group.rb:577:in `map'
+  rspec-core (3.4.4) lib/rspec/core/example_group.rb:577:in `run_examples'
+  rspec-core (3.4.4) lib/rspec/core/example_group.rb:543:in `run'
+  rspec-core (3.4.4) lib/rspec/core/example_group.rb:544:in `block in run'
+  rspec-core (3.4.4) lib/rspec/core/example_group.rb:544:in `map'
+  rspec-core (3.4.4) lib/rspec/core/example_group.rb:544:in `run'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:119:in `block (3 levels) in run_specs'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:119:in `map'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:119:in `block (2 levels) in run_specs'
+  rspec-core (3.4.4) lib/rspec/core/configuration.rb:1680:in `with_suite_hooks'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:118:in `block in run_specs'
+  rspec-core (3.4.4) lib/rspec/core/reporter.rb:77:in `report'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:117:in `run_specs'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:93:in `run'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:78:in `run'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:45:in `invoke'
+  rspec-core (3.4.4) exe/rspec:4:in `<top (required)>'
+  C:/RailsInstaller/Ruby2.1.0/bin/rspec:23:in `load'
+  C:/RailsInstaller/Ruby2.1.0/bin/rspec:23:in `<main>'
+
+
+  [1m[35m (0.5ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/api/races/5722375f7cfc5a41b07dc66c" for 127.0.0.1 at 2016-04-28 11:16:31 -0500
+
+ActionController::RoutingError (No route matches [GET] "/api/races/5722375f7cfc5a41b07dc66c"):
+  actionpack (4.2.4) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.2.4) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.4) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.4) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.4) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.4) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.4) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.4) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.4) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.4) lib/action_dispatch/middleware/static.rb:116:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.4) lib/rails/engine.rb:518:in `call'
+  railties (4.2.4) lib/rails/application.rb:165:in `call'
+  rack (1.6.4) lib/rack/urlmap.rb:66:in `block in call'
+  rack (1.6.4) lib/rack/urlmap.rb:50:in `each'
+  rack (1.6.4) lib/rack/urlmap.rb:50:in `call'
+  rack-test (0.6.3) lib/rack/mock_session.rb:30:in `request'
+  rack-test (0.6.3) lib/rack/test.rb:244:in `process_request'
+  rack-test (0.6.3) lib/rack/test.rb:58:in `get'
+  C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/forwardable.rb:183:in `get'
+  capybara (2.7.0) lib/capybara/rack_test/driver.rb:95:in `get'
+  spec/representations_spec.rb:32:in `block (3 levels) in <top (required)>'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:236:in `instance_exec'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:236:in `block in run'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:478:in `block in with_around_and_singleton_context_hooks'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:435:in `block in with_around_example_hooks'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:478:in `block in run'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:618:in `block in run_around_example_hooks_for'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:320:in `call'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:320:in `call'
+  spec/representations_spec.rb:21:in `block (2 levels) in <top (required)>'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:425:in `instance_exec'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:425:in `instance_exec'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:389:in `execute_with'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:620:in `block (2 levels) in run_around_example_hooks_for'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:320:in `call'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:320:in `call'
+  rspec-rails (3.4.2) lib/rspec/rails/adapters.rb:127:in `block (2 levels) in <module:MinitestLifecycleAdapter>'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:425:in `instance_exec'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:425:in `instance_exec'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:389:in `execute_with'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:620:in `block (2 levels) in run_around_example_hooks_for'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:320:in `call'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:320:in `call'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:621:in `run_around_example_hooks_for'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:478:in `run'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:435:in `with_around_example_hooks'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:478:in `with_around_and_singleton_context_hooks'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:233:in `run'
+  rspec-core (3.4.4) lib/rspec/core/example_group.rb:581:in `block in run_examples'
+  rspec-core (3.4.4) lib/rspec/core/example_group.rb:577:in `map'
+  rspec-core (3.4.4) lib/rspec/core/example_group.rb:577:in `run_examples'
+  rspec-core (3.4.4) lib/rspec/core/example_group.rb:543:in `run'
+  rspec-core (3.4.4) lib/rspec/core/example_group.rb:544:in `block in run'
+  rspec-core (3.4.4) lib/rspec/core/example_group.rb:544:in `map'
+  rspec-core (3.4.4) lib/rspec/core/example_group.rb:544:in `run'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:119:in `block (3 levels) in run_specs'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:119:in `map'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:119:in `block (2 levels) in run_specs'
+  rspec-core (3.4.4) lib/rspec/core/configuration.rb:1680:in `with_suite_hooks'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:118:in `block in run_specs'
+  rspec-core (3.4.4) lib/rspec/core/reporter.rb:77:in `report'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:117:in `run_specs'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:93:in `run'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:78:in `run'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:45:in `invoke'
+  rspec-core (3.4.4) exe/rspec:4:in `<top (required)>'
+  C:/RailsInstaller/Ruby2.1.0/bin/rspec:23:in `load'
+  C:/RailsInstaller/Ruby2.1.0/bin/rspec:23:in `<main>'
+
+
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/api/races/5722375f7cfc5a41b07dc66d/results/572237607cfc5a41b07dc867" for 127.0.0.1 at 2016-04-28 11:16:32 -0500
+
+ActionController::RoutingError (No route matches [GET] "/api/races/5722375f7cfc5a41b07dc66d/results/572237607cfc5a41b07dc867"):
+  actionpack (4.2.4) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.2.4) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.4) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.4) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.4) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.4) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.4) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.4) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.4) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.4) lib/action_dispatch/middleware/static.rb:116:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.4) lib/rails/engine.rb:518:in `call'
+  railties (4.2.4) lib/rails/application.rb:165:in `call'
+  rack (1.6.4) lib/rack/urlmap.rb:66:in `block in call'
+  rack (1.6.4) lib/rack/urlmap.rb:50:in `each'
+  rack (1.6.4) lib/rack/urlmap.rb:50:in `call'
+  rack-test (0.6.3) lib/rack/mock_session.rb:30:in `request'
+  rack-test (0.6.3) lib/rack/test.rb:244:in `process_request'
+  rack-test (0.6.3) lib/rack/test.rb:58:in `get'
+  C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/forwardable.rb:183:in `get'
+  capybara (2.7.0) lib/capybara/rack_test/driver.rb:95:in `get'
+  spec/resources_spec.rb:38:in `block (3 levels) in <top (required)>'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:236:in `instance_exec'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:236:in `block in run'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:478:in `block in with_around_and_singleton_context_hooks'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:435:in `block in with_around_example_hooks'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:478:in `block in run'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:618:in `block in run_around_example_hooks_for'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:320:in `call'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:320:in `call'
+  spec/resources_spec.rb:22:in `block (2 levels) in <top (required)>'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:425:in `instance_exec'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:425:in `instance_exec'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:389:in `execute_with'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:620:in `block (2 levels) in run_around_example_hooks_for'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:320:in `call'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:320:in `call'
+  rspec-rails (3.4.2) lib/rspec/rails/adapters.rb:127:in `block (2 levels) in <module:MinitestLifecycleAdapter>'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:425:in `instance_exec'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:425:in `instance_exec'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:389:in `execute_with'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:620:in `block (2 levels) in run_around_example_hooks_for'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:320:in `call'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:320:in `call'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:621:in `run_around_example_hooks_for'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:478:in `run'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:435:in `with_around_example_hooks'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:478:in `with_around_and_singleton_context_hooks'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:233:in `run'
+  rspec-core (3.4.4) lib/rspec/core/example_group.rb:581:in `block in run_examples'
+  rspec-core (3.4.4) lib/rspec/core/example_group.rb:577:in `map'
+  rspec-core (3.4.4) lib/rspec/core/example_group.rb:577:in `run_examples'
+  rspec-core (3.4.4) lib/rspec/core/example_group.rb:543:in `run'
+  rspec-core (3.4.4) lib/rspec/core/example_group.rb:544:in `block in run'
+  rspec-core (3.4.4) lib/rspec/core/example_group.rb:544:in `map'
+  rspec-core (3.4.4) lib/rspec/core/example_group.rb:544:in `run'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:119:in `block (3 levels) in run_specs'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:119:in `map'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:119:in `block (2 levels) in run_specs'
+  rspec-core (3.4.4) lib/rspec/core/configuration.rb:1680:in `with_suite_hooks'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:118:in `block in run_specs'
+  rspec-core (3.4.4) lib/rspec/core/reporter.rb:77:in `report'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:117:in `run_specs'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:93:in `run'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:78:in `run'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:45:in `invoke'
+  rspec-core (3.4.4) exe/rspec:4:in `<top (required)>'
+  C:/RailsInstaller/Ruby2.1.0/bin/rspec:23:in `load'
+  C:/RailsInstaller/Ruby2.1.0/bin/rspec:23:in `<main>'
+
+
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.5ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Overwriting existing field _id in class RacerInfo.
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.5ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started PUT "/api/races/5724f3067cfc5a4cd0003759" for 127.0.0.1 at 2016-04-30 13:01:42 -0500
+Processing by Api::RacesController#update as HTML
+  Parameters: {"race"=>{"name"=>"Modified Race", "date"=>"2016-04-30"}, "id"=>"5724f3067cfc5a4cd0003759"}
+  Rendered text template (0.0ms)
+Completed 404 Not Found in 125ms (Views: 84.6ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started POST "/api/races" for 127.0.0.1 at 2016-04-30 13:01:42 -0500
+Processing by Api::RacesController#create as plain/text
+  Parameters: {"race"=>{"name"=>"First Race", "date"=>"2016-04-30"}}
+  Rendered text template (0.0ms)
+Completed 201 Created in 4ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/api/races/5724f3067cfc5a4cd000375b" for 127.0.0.1 at 2016-04-30 13:01:42 -0500
+Processing by Api::RacesController#show as JSON
+  Parameters: {"id"=>"5724f3067cfc5a4cd000375b", "race"=>{}}
+  Rendered api/races/race.json.jbuilder (60.6ms)
+Completed 200 OK in 71ms (Views: 69.1ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started PUT "/api/races/5724f3067cfc5a4cd000375c" for 127.0.0.1 at 2016-04-30 13:01:42 -0500
+Processing by Api::RacesController#update as JSON
+  Parameters: {"race"=>{"name"=>"Modified Race", "date"=>"2016-04-30"}, "id"=>"5724f3067cfc5a4cd000375c"}
+Completed 200 OK in 7ms (Views: 2.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started DELETE "/api/races/5724f3067cfc5a4cd000375d" for 127.0.0.1 at 2016-04-30 13:01:43 -0500
+Processing by Api::RacesController#destroy as JSON
+  Parameters: {"id"=>"5724f3067cfc5a4cd000375d", "race"=>{}}
+  Rendered text template (0.0ms)
+Completed 204 No Content in 8ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/api/races?offset=10&limit=50" for 127.0.0.1 at 2016-04-30 13:01:43 -0500
+Processing by Api::RacesController#index as HTML
+  Parameters: {"offset"=>"10", "limit"=>"50", "race"=>{}}
+  Rendered text template (0.0ms)
+Completed 200 OK in 2ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started POST "/api/races" for 127.0.0.1 at 2016-04-30 13:01:43 -0500
+Processing by Api::RacesController#create as HTML
+  Parameters: {"race"=>{"name"=>"Meager Mile"}}
+  Rendered text template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+Started POST "/api/races" for 127.0.0.1 at 2016-04-30 13:01:43 -0500
+Error occurred while parsing request parameters.
+Contents:
+
+race[name]=Meager+Mile
+
+ActionDispatch::ParamsParser::ParseError (795: unexpected token at 'race[name]=Meager+Mile'):
+  actionpack (4.2.4) lib/action_dispatch/middleware/params_parser.rb:53:in `rescue in parse_formatted_parameters'
+  actionpack (4.2.4) lib/action_dispatch/middleware/params_parser.rb:32:in `parse_formatted_parameters'
+  actionpack (4.2.4) lib/action_dispatch/middleware/params_parser.rb:23:in `call'
+  actionpack (4.2.4) lib/action_dispatch/middleware/flash.rb:260:in `call'
+  rack (1.6.4) lib/rack/session/abstract/id.rb:225:in `context'
+  rack (1.6.4) lib/rack/session/abstract/id.rb:220:in `call'
+  actionpack (4.2.4) lib/action_dispatch/middleware/cookies.rb:560:in `call'
+  activerecord (4.2.4) lib/active_record/query_cache.rb:36:in `call'
+  activerecord (4.2.4) lib/active_record/connection_adapters/abstract/connection_pool.rb:653:in `call'
+  actionpack (4.2.4) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+  activesupport (4.2.4) lib/active_support/callbacks.rb:88:in `__run_callbacks__'
+  activesupport (4.2.4) lib/active_support/callbacks.rb:778:in `_run_call_callbacks'
+  activesupport (4.2.4) lib/active_support/callbacks.rb:81:in `run_callbacks'
+  actionpack (4.2.4) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (4.2.4) lib/action_dispatch/middleware/remote_ip.rb:78:in `call'
+  actionpack (4.2.4) lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call'
+  actionpack (4.2.4) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.4) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.4) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.4) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.4) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.4) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.4) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.4) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.4) lib/action_dispatch/middleware/static.rb:116:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.4) lib/rails/engine.rb:518:in `call'
+  railties (4.2.4) lib/rails/application.rb:165:in `call'
+  rack (1.6.4) lib/rack/urlmap.rb:66:in `block in call'
+  rack (1.6.4) lib/rack/urlmap.rb:50:in `each'
+  rack (1.6.4) lib/rack/urlmap.rb:50:in `call'
+  rack-test (0.6.3) lib/rack/mock_session.rb:30:in `request'
+  rack-test (0.6.3) lib/rack/test.rb:244:in `process_request'
+  rack-test (0.6.3) lib/rack/test.rb:67:in `post'
+  C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/forwardable.rb:183:in `post'
+  capybara (2.7.0) lib/capybara/rack_test/driver.rb:96:in `post'
+  spec/params_spec.rb:52:in `block (3 levels) in <top (required)>'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:236:in `instance_exec'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:236:in `block in run'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:478:in `block in with_around_and_singleton_context_hooks'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:435:in `block in with_around_example_hooks'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:478:in `block in run'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:618:in `block in run_around_example_hooks_for'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:320:in `call'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:320:in `call'
+  spec/params_spec.rb:17:in `block (2 levels) in <top (required)>'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:425:in `instance_exec'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:425:in `instance_exec'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:389:in `execute_with'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:620:in `block (2 levels) in run_around_example_hooks_for'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:320:in `call'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:320:in `call'
+  rspec-rails (3.4.2) lib/rspec/rails/adapters.rb:127:in `block (2 levels) in <module:MinitestLifecycleAdapter>'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:425:in `instance_exec'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:425:in `instance_exec'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:389:in `execute_with'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:620:in `block (2 levels) in run_around_example_hooks_for'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:320:in `call'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:320:in `call'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:621:in `run_around_example_hooks_for'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:478:in `run'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:435:in `with_around_example_hooks'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:478:in `with_around_and_singleton_context_hooks'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:233:in `run'
+  rspec-core (3.4.4) lib/rspec/core/example_group.rb:581:in `block in run_examples'
+  rspec-core (3.4.4) lib/rspec/core/example_group.rb:577:in `map'
+  rspec-core (3.4.4) lib/rspec/core/example_group.rb:577:in `run_examples'
+  rspec-core (3.4.4) lib/rspec/core/example_group.rb:543:in `run'
+  rspec-core (3.4.4) lib/rspec/core/example_group.rb:544:in `block in run'
+  rspec-core (3.4.4) lib/rspec/core/example_group.rb:544:in `map'
+  rspec-core (3.4.4) lib/rspec/core/example_group.rb:544:in `run'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:119:in `block (3 levels) in run_specs'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:119:in `map'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:119:in `block (2 levels) in run_specs'
+  rspec-core (3.4.4) lib/rspec/core/configuration.rb:1680:in `with_suite_hooks'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:118:in `block in run_specs'
+  rspec-core (3.4.4) lib/rspec/core/reporter.rb:77:in `report'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:117:in `run_specs'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:93:in `run'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:78:in `run'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:45:in `invoke'
+  rspec-core (3.4.4) exe/rspec:4:in `<top (required)>'
+  C:/RailsInstaller/Ruby2.1.0/bin/rspec:23:in `load'
+  C:/RailsInstaller/Ruby2.1.0/bin/rspec:23:in `<main>'
+
+
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started POST "/api/races" for 127.0.0.1 at 2016-04-30 13:01:43 -0500
+Processing by Api::RacesController#create as HTML
+  Parameters: {"race"=>{"name"=>"Meager Mile"}}
+  Rendered text template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.5ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/api/races/5724f3077cfc5a4cd000375e" for 127.0.0.1 at 2016-04-30 13:01:43 -0500
+Processing by Api::RacesController#show as XML
+  Parameters: {"id"=>"5724f3077cfc5a4cd000375e", "race"=>{}}
+  Rendered api/races/race.xml.builder (215.8ms)
+Completed 200 OK in 226ms (Views: 224.3ms | ActiveRecord: 0.0ms)
+Started GET "/api/races/5724f3087cfc5a4cd000375f" for 127.0.0.1 at 2016-04-30 13:01:44 -0500
+Processing by Api::RacesController#show as XML
+  Parameters: {"id"=>"5724f3087cfc5a4cd000375f"}
+  Rendered api/races/error.xml.builder (2.5ms)
+Completed 404 Not Found in 11ms (Views: 8.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/api/races/5724f3087cfc5a4cd0003760" for 127.0.0.1 at 2016-04-30 13:01:44 -0500
+Processing by Api::RacesController#show as JSON
+  Parameters: {"id"=>"5724f3087cfc5a4cd0003760"}
+  Rendered api/races/race.json.jbuilder (0.0ms)
+Completed 200 OK in 3ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+Started GET "/api/races/5724f3087cfc5a4cd0003761" for 127.0.0.1 at 2016-04-30 13:01:44 -0500
+Processing by Api::RacesController#show as JSON
+  Parameters: {"id"=>"5724f3087cfc5a4cd0003761", "race"=>{}}
+  Rendered api/races/error.json.jbuilder (0.5ms)
+Completed 404 Not Found in 7ms (Views: 5.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.5ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/api/races/5724f3087cfc5a4cd0003762" for 127.0.0.1 at 2016-04-30 13:01:44 -0500
+Processing by Api::RacesController#show as TEXT
+  Parameters: {"id"=>"5724f3087cfc5a4cd0003762", "race"=>{}}
+  Rendered text template (0.0ms)
+Completed 415 Unsupported Media Type in 6ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/api/races/5724f3087cfc5a4cd0003763/results/5724f3097cfc5a4cd000395d" for 127.0.0.1 at 2016-04-30 13:01:45 -0500
+Processing by Api::ResultsController#show as JSON
+  Parameters: {"race_id"=>"5724f3087cfc5a4cd0003763", "id"=>"5724f3097cfc5a4cd000395d", "result"=>{}}
+  Rendered api/results/_result.json.jbuilder (12.5ms)
+  Rendered api/results/show.json.jbuilder (55.1ms)
+Completed 200 OK in 165ms (Views: 60.1ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started PATCH "/api/races/5724f30a7cfc5a4cd0003acf/results/5724f30a7cfc5a4cd0003bc9" for 127.0.0.1 at 2016-04-30 13:01:46 -0500
+Processing by Api::ResultsController#update as JSON
+  Parameters: {"result"=>{"swim"=>900}, "race_id"=>"5724f30a7cfc5a4cd0003acf", "id"=>"5724f30a7cfc5a4cd0003bc9"}
+Completed 200 OK in 16ms (Views: 3.0ms | ActiveRecord: 0.0ms)
+Started PATCH "/api/races/5724f30a7cfc5a4cd0003acf/results/5724f30a7cfc5a4cd0003bc9" for 127.0.0.1 at 2016-04-30 13:01:46 -0500
+Processing by Api::ResultsController#update as JSON
+  Parameters: {"result"=>{"t1"=>60}, "race_id"=>"5724f30a7cfc5a4cd0003acf", "id"=>"5724f30a7cfc5a4cd0003bc9"}
+Completed 200 OK in 29ms (Views: 5.5ms | ActiveRecord: 0.0ms)
+Started PATCH "/api/races/5724f30a7cfc5a4cd0003acf/results/5724f30a7cfc5a4cd0003bc9" for 127.0.0.1 at 2016-04-30 13:01:47 -0500
+Processing by Api::ResultsController#update as JSON
+  Parameters: {"result"=>{"bike"=>2400}, "race_id"=>"5724f30a7cfc5a4cd0003acf", "id"=>"5724f30a7cfc5a4cd0003bc9"}
+Completed 200 OK in 22ms (Views: 5.0ms | ActiveRecord: 0.0ms)
+Started PATCH "/api/races/5724f30a7cfc5a4cd0003acf/results/5724f30a7cfc5a4cd0003bc9" for 127.0.0.1 at 2016-04-30 13:01:47 -0500
+Processing by Api::ResultsController#update as JSON
+  Parameters: {"result"=>{"t2"=>40}, "race_id"=>"5724f30a7cfc5a4cd0003acf", "id"=>"5724f30a7cfc5a4cd0003bc9"}
+Completed 200 OK in 22ms (Views: 4.0ms | ActiveRecord: 0.0ms)
+Started PATCH "/api/races/5724f30a7cfc5a4cd0003acf/results/5724f30a7cfc5a4cd0003bc9" for 127.0.0.1 at 2016-04-30 13:01:47 -0500
+Processing by Api::ResultsController#update as JSON
+  Parameters: {"result"=>{"run"=>1500}, "race_id"=>"5724f30a7cfc5a4cd0003acf", "id"=>"5724f30a7cfc5a4cd0003bc9"}
+Completed 200 OK in 29ms (Views: 3.5ms | ActiveRecord: 0.0ms)
+Started GET "/api/races/5724f30a7cfc5a4cd0003acf/results/5724f30a7cfc5a4cd0003bc9" for 127.0.0.1 at 2016-04-30 13:01:47 -0500
+Processing by Api::ResultsController#show as JSON
+  Parameters: {"race_id"=>"5724f30a7cfc5a4cd0003acf", "id"=>"5724f30a7cfc5a4cd0003bc9", "result"=>{}}
+  Rendered api/results/_result.json.jbuilder (6.5ms)
+  Rendered api/results/show.json.jbuilder (7.5ms)
+Completed 200 OK in 12ms (Views: 7.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (1.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/api/races/5724f30b7cfc5a4cd0003bd8/results" for 127.0.0.1 at 2016-04-30 13:01:48 -0500
+Processing by Api::ResultsController#index as JSON
+  Parameters: {"race_id"=>"5724f30b7cfc5a4cd0003bd8", "result"=>{}}
+  Rendered api/results/_result.json.jbuilder (10.5ms)
+  Rendered api/results/_result.json.jbuilder (12.0ms)
+  Rendered api/results/_result.json.jbuilder (9.5ms)
+  Rendered api/results/_result.json.jbuilder (12.0ms)
+  Rendered api/results/_result.json.jbuilder (10.5ms)
+  Rendered api/results/_result.json.jbuilder (10.0ms)
+  Rendered api/results/index.json.jbuilder (72.1ms)
+Completed 200 OK in 342ms (Views: 76.6ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+Started GET "/api/races/5724f30c7cfc5a4cd0003e54/results" for 127.0.0.1 at 2016-04-30 13:01:49 -0500
+Processing by Api::ResultsController#index as JSON
+  Parameters: {"race_id"=>"5724f30c7cfc5a4cd0003e54", "result"=>{}}
+  Rendered api/results/index.json.jbuilder (1.5ms)
+Completed 200 OK in 8ms (Views: 2.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.5ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/api/racers" for 127.0.0.1 at 2016-04-30 13:01:50 -0500
+Processing by Api::RacersController#index as HTML
+  Parameters: {"racer"=>{}}
+  Rendered text template (0.0ms)
+Completed 200 OK in 3ms (Views: 2.0ms | ActiveRecord: 0.0ms)
+Started GET "/api/racers/abc" for 127.0.0.1 at 2016-04-30 13:01:50 -0500
+Processing by Api::RacersController#show as HTML
+  Parameters: {"id"=>"abc", "racer"=>{}}
+  Rendered text template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+Started GET "/api/racers/abc/entries" for 127.0.0.1 at 2016-04-30 13:01:50 -0500
+Processing by Api::EntriesController#index as HTML
+  Parameters: {"racer_id"=>"abc", "entry"=>{}}
+  Rendered text template (0.0ms)
+Completed 200 OK in 2ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+Started GET "/api/racers/abc/entries/def" for 127.0.0.1 at 2016-04-30 13:01:50 -0500
+Processing by Api::EntriesController#show as HTML
+  Parameters: {"racer_id"=>"abc", "id"=>"def", "entry"=>{}}
+  Rendered text template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.0ms | ActiveRecord: 0.0ms)
+Started GET "/api/races" for 127.0.0.1 at 2016-04-30 13:01:50 -0500
+Processing by Api::RacesController#index as HTML
+  Parameters: {"race"=>{}}
+  Rendered text template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+Started GET "/api/races/abc" for 127.0.0.1 at 2016-04-30 13:01:50 -0500
+Processing by Api::RacesController#show as HTML
+  Parameters: {"id"=>"abc", "race"=>{}}
+  Rendered text template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+Started GET "/api/races/abc/results" for 127.0.0.1 at 2016-04-30 13:01:50 -0500
+Processing by Api::ResultsController#index as HTML
+  Parameters: {"race_id"=>"abc", "result"=>{}}
+  Rendered text template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+Started GET "/api/races/abc/results/def" for 127.0.0.1 at 2016-04-30 13:01:50 -0500
+Processing by Api::ResultsController#show as HTML
+  Parameters: {"race_id"=>"abc", "id"=>"def", "result"=>{}}
+  Rendered text template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/api/races/abc/foo/def" for 127.0.0.1 at 2016-04-30 13:01:50 -0500
+
+ActionController::RoutingError (No route matches [GET] "/api/races/abc/foo/def"):
+  actionpack (4.2.4) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.2.4) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.4) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.4) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.4) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.4) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.4) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.4) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.4) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.4) lib/action_dispatch/middleware/static.rb:116:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.4) lib/rails/engine.rb:518:in `call'
+  railties (4.2.4) lib/rails/application.rb:165:in `call'
+  rack (1.6.4) lib/rack/urlmap.rb:66:in `block in call'
+  rack (1.6.4) lib/rack/urlmap.rb:50:in `each'
+  rack (1.6.4) lib/rack/urlmap.rb:50:in `call'
+  rack-test (0.6.3) lib/rack/mock_session.rb:30:in `request'
+  rack-test (0.6.3) lib/rack/test.rb:244:in `process_request'
+  rack-test (0.6.3) lib/rack/test.rb:58:in `get'
+  C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/forwardable.rb:183:in `get'
+  capybara (2.7.0) lib/capybara/rack_test/driver.rb:95:in `get'
+  spec/uri_spec.rb:59:in `block (3 levels) in <top (required)>'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:236:in `instance_exec'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:236:in `block in run'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:478:in `block in with_around_and_singleton_context_hooks'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:435:in `block in with_around_example_hooks'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:478:in `block in run'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:618:in `block in run_around_example_hooks_for'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:320:in `call'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:320:in `call'
+  spec/uri_spec.rb:18:in `block (2 levels) in <top (required)>'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:425:in `instance_exec'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:425:in `instance_exec'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:389:in `execute_with'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:620:in `block (2 levels) in run_around_example_hooks_for'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:320:in `call'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:320:in `call'
+  rspec-rails (3.4.2) lib/rspec/rails/adapters.rb:127:in `block (2 levels) in <module:MinitestLifecycleAdapter>'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:425:in `instance_exec'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:425:in `instance_exec'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:389:in `execute_with'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:620:in `block (2 levels) in run_around_example_hooks_for'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:320:in `call'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:320:in `call'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:621:in `run_around_example_hooks_for'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:478:in `run'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:435:in `with_around_example_hooks'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:478:in `with_around_and_singleton_context_hooks'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:233:in `run'
+  rspec-core (3.4.4) lib/rspec/core/example_group.rb:581:in `block in run_examples'
+  rspec-core (3.4.4) lib/rspec/core/example_group.rb:577:in `map'
+  rspec-core (3.4.4) lib/rspec/core/example_group.rb:577:in `run_examples'
+  rspec-core (3.4.4) lib/rspec/core/example_group.rb:543:in `run'
+  rspec-core (3.4.4) lib/rspec/core/example_group.rb:544:in `block in run'
+  rspec-core (3.4.4) lib/rspec/core/example_group.rb:544:in `map'
+  rspec-core (3.4.4) lib/rspec/core/example_group.rb:544:in `run'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:119:in `block (3 levels) in run_specs'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:119:in `map'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:119:in `block (2 levels) in run_specs'
+  rspec-core (3.4.4) lib/rspec/core/configuration.rb:1680:in `with_suite_hooks'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:118:in `block in run_specs'
+  rspec-core (3.4.4) lib/rspec/core/reporter.rb:77:in `report'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:117:in `run_specs'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:93:in `run'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:78:in `run'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:45:in `invoke'
+  rspec-core (3.4.4) exe/rspec:4:in `<top (required)>'
+  C:/RailsInstaller/Ruby2.1.0/bin/rspec:23:in `load'
+  C:/RailsInstaller/Ruby2.1.0/bin/rspec:23:in `<main>'
+
+
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started POST "/api/races" for 127.0.0.1 at 2016-04-30 13:01:50 -0500
+Processing by Api::RacesController#create as HTML
+  Parameters: {"race"=>{}}
+  Rendered text template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Overwriting existing field _id in class RacerInfo.
+Started GET "/api/races/5724f4c47cfc5a78c03888ac/results" for 127.0.0.1 at 2016-04-30 13:09:12 -0500
+Processing by Api::ResultsController#index as JSON
+  Parameters: {"race_id"=>"5724f4c47cfc5a78c03888ac"}
+  Rendered api/results/_result.json.jbuilder (12.0ms)
+  Rendered api/results/_result.json.jbuilder (9.0ms)
+  Rendered api/results/_result.json.jbuilder (8.5ms)
+  Rendered api/results/_result.json.jbuilder (10.5ms)
+  Rendered api/results/_result.json.jbuilder (8.5ms)
+  Rendered api/results/_result.json.jbuilder (10.0ms)
+  Rendered api/results/index.json.jbuilder (88.1ms)
+Completed 200 OK in 150ms (Views: 117.7ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Overwriting existing field _id in class RacerInfo.
+Started GET "/api/races/5724f5477cfc5ad6541ab3ac/results" for 127.0.0.1 at 2016-04-30 13:11:22 -0500
+Processing by Api::ResultsController#index as JSON
+  Parameters: {"race_id"=>"5724f5477cfc5ad6541ab3ac"}
+  Rendered api/results/_result.json.jbuilder (11.0ms)
+  Rendered api/results/_result.json.jbuilder (12.5ms)
+  Rendered api/results/_result.json.jbuilder (8.5ms)
+  Rendered api/results/_result.json.jbuilder (10.0ms)
+  Rendered api/results/_result.json.jbuilder (12.0ms)
+  Rendered api/results/_result.json.jbuilder (8.5ms)
+  Rendered api/results/index.json.jbuilder (90.1ms)
+Completed 200 OK in 168ms (Views: 127.2ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/api/races/5724f54a7cfc5ad6541ab5dc/results" for 127.0.0.1 at 2016-04-30 13:11:26 -0500
+Processing by Api::ResultsController#index as JSON
+  Parameters: {"race_id"=>"5724f54a7cfc5ad6541ab5dc"}
+  Rendered api/results/_result.json.jbuilder (10.0ms)
+  Rendered api/results/_result.json.jbuilder (9.1ms)
+  Rendered api/results/_result.json.jbuilder (10.0ms)
+  Rendered api/results/_result.json.jbuilder (10.5ms)
+  Rendered api/results/_result.json.jbuilder (10.1ms)
+  Rendered api/results/_result.json.jbuilder (11.0ms)
+  Rendered api/results/index.json.jbuilder (67.2ms)
+Completed 200 OK in 72ms (Views: 67.8ms | ActiveRecord: 0.0ms)
+Started GET "/api/races/5724f54a7cfc5ad6541ab5dc/results" for 127.0.0.1 at 2016-04-30 13:11:26 -0500
+Processing by Api::ResultsController#index as JSON
+  Parameters: {"race_id"=>"5724f54a7cfc5ad6541ab5dc"}
+Completed 304 Not Modified in 4ms (ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/api/races/5724f54e7cfc5ad6541ab80c/results" for 127.0.0.1 at 2016-04-30 13:11:30 -0500
+Processing by Api::ResultsController#index as JSON
+  Parameters: {"race_id"=>"5724f54e7cfc5ad6541ab80c"}
+  Rendered api/results/_result.json.jbuilder (10.5ms)
+  Rendered api/results/_result.json.jbuilder (10.5ms)
+  Rendered api/results/_result.json.jbuilder (9.0ms)
+  Rendered api/results/_result.json.jbuilder (9.5ms)
+  Rendered api/results/_result.json.jbuilder (10.0ms)
+  Rendered api/results/_result.json.jbuilder (9.5ms)
+  Rendered api/results/index.json.jbuilder (65.1ms)
+Completed 200 OK in 70ms (Views: 66.1ms | ActiveRecord: 0.0ms)
+Started PATCH "/api/races/5724f54e7cfc5ad6541ab80c/results/5724f54f7cfc5ad6541aba06" for 127.0.0.1 at 2016-04-30 13:11:31 -0500
+Processing by Api::ResultsController#update as JSON
+  Parameters: {"result"=>{"swim"=>3300}, "race_id"=>"5724f54e7cfc5ad6541ab80c", "id"=>"5724f54f7cfc5ad6541aba06"}
+Completed 200 OK in 20ms (Views: 3.0ms | ActiveRecord: 0.0ms)
+Started GET "/api/races/5724f54e7cfc5ad6541ab80c/results" for 127.0.0.1 at 2016-04-30 13:11:31 -0500
+Processing by Api::ResultsController#index as JSON
+  Parameters: {"race_id"=>"5724f54e7cfc5ad6541ab80c", "result"=>{}}
+  Rendered api/results/_result.json.jbuilder (12.5ms)
+  Rendered api/results/_result.json.jbuilder (18.0ms)
+  Rendered api/results/_result.json.jbuilder (9.0ms)
+  Rendered api/results/_result.json.jbuilder (12.5ms)
+  Rendered api/results/_result.json.jbuilder (10.5ms)
+  Rendered api/results/_result.json.jbuilder (10.0ms)
+  Rendered api/results/index.json.jbuilder (80.1ms)
+Completed 200 OK in 87ms (Views: 80.6ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started PUT "/api/races/5724f5537cfc5ad6541aba3d" for 127.0.0.1 at 2016-04-30 13:11:31 -0500
+Processing by Api::RacesController#update as JSON
+  Parameters: {"race"=>{"name"=>"Modified Race", "date"=>"2016-04-30"}, "id"=>"5724f5537cfc5ad6541aba3d"}
+  Rendered api/races/error.json.jbuilder (1.5ms)
+Completed 404 Not Found in 12ms (Views: 8.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.5ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started POST "/api/races" for 127.0.0.1 at 2016-04-30 13:11:32 -0500
+Processing by Api::RacesController#create as plain/text
+  Parameters: {"race"=>{"name"=>"First Race", "date"=>"2016-04-30"}}
+  Rendered text template (0.0ms)
+Completed 201 Created in 14ms (Views: 9.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/api/races/5724f5547cfc5ad6541aba3f" for 127.0.0.1 at 2016-04-30 13:11:32 -0500
+Processing by Api::RacesController#show as JSON
+  Parameters: {"id"=>"5724f5547cfc5ad6541aba3f", "race"=>{}}
+  Rendered api/races/race.json.jbuilder (1.0ms)
+Completed 200 OK in 9ms (Views: 6.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started PUT "/api/races/5724f5547cfc5ad6541aba40" for 127.0.0.1 at 2016-04-30 13:11:32 -0500
+Processing by Api::RacesController#update as JSON
+  Parameters: {"race"=>{"name"=>"Modified Race", "date"=>"2016-04-30"}, "id"=>"5724f5547cfc5ad6541aba40"}
+Completed 200 OK in 9ms (Views: 3.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started DELETE "/api/races/5724f5547cfc5ad6541aba41" for 127.0.0.1 at 2016-04-30 13:11:32 -0500
+Processing by Api::RacesController#destroy as JSON
+  Parameters: {"id"=>"5724f5547cfc5ad6541aba41", "race"=>{}}
+  Rendered text template (0.0ms)
+Completed 204 No Content in 9ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/api/races?offset=10&limit=50" for 127.0.0.1 at 2016-04-30 13:11:32 -0500
+Processing by Api::RacesController#index as HTML
+  Parameters: {"offset"=>"10", "limit"=>"50", "race"=>{}}
+  Rendered text template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.5ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+Started POST "/api/races" for 127.0.0.1 at 2016-04-30 13:11:32 -0500
+Processing by Api::RacesController#create as HTML
+  Parameters: {"race"=>{"name"=>"Meager Mile"}}
+  Rendered text template (0.0ms)
+Completed 200 OK in 2ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started POST "/api/races" for 127.0.0.1 at 2016-04-30 13:11:32 -0500
+Error occurred while parsing request parameters.
+Contents:
+
+race[name]=Meager+Mile
+
+ActionDispatch::ParamsParser::ParseError (795: unexpected token at 'race[name]=Meager+Mile'):
+  actionpack (4.2.4) lib/action_dispatch/middleware/params_parser.rb:53:in `rescue in parse_formatted_parameters'
+  actionpack (4.2.4) lib/action_dispatch/middleware/params_parser.rb:32:in `parse_formatted_parameters'
+  actionpack (4.2.4) lib/action_dispatch/middleware/params_parser.rb:23:in `call'
+  actionpack (4.2.4) lib/action_dispatch/middleware/flash.rb:260:in `call'
+  rack (1.6.4) lib/rack/session/abstract/id.rb:225:in `context'
+  rack (1.6.4) lib/rack/session/abstract/id.rb:220:in `call'
+  actionpack (4.2.4) lib/action_dispatch/middleware/cookies.rb:560:in `call'
+  activerecord (4.2.4) lib/active_record/query_cache.rb:36:in `call'
+  activerecord (4.2.4) lib/active_record/connection_adapters/abstract/connection_pool.rb:653:in `call'
+  actionpack (4.2.4) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+  activesupport (4.2.4) lib/active_support/callbacks.rb:88:in `__run_callbacks__'
+  activesupport (4.2.4) lib/active_support/callbacks.rb:778:in `_run_call_callbacks'
+  activesupport (4.2.4) lib/active_support/callbacks.rb:81:in `run_callbacks'
+  actionpack (4.2.4) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (4.2.4) lib/action_dispatch/middleware/remote_ip.rb:78:in `call'
+  actionpack (4.2.4) lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call'
+  actionpack (4.2.4) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.4) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.4) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.4) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.4) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.4) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.4) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.4) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.4) lib/action_dispatch/middleware/static.rb:116:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.4) lib/rails/engine.rb:518:in `call'
+  railties (4.2.4) lib/rails/application.rb:165:in `call'
+  rack (1.6.4) lib/rack/urlmap.rb:66:in `block in call'
+  rack (1.6.4) lib/rack/urlmap.rb:50:in `each'
+  rack (1.6.4) lib/rack/urlmap.rb:50:in `call'
+  rack-test (0.6.3) lib/rack/mock_session.rb:30:in `request'
+  rack-test (0.6.3) lib/rack/test.rb:244:in `process_request'
+  rack-test (0.6.3) lib/rack/test.rb:67:in `post'
+  C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/forwardable.rb:183:in `post'
+  capybara (2.7.0) lib/capybara/rack_test/driver.rb:96:in `post'
+  spec/params_spec.rb:52:in `block (3 levels) in <top (required)>'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:236:in `instance_exec'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:236:in `block in run'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:478:in `block in with_around_and_singleton_context_hooks'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:435:in `block in with_around_example_hooks'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:478:in `block in run'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:618:in `block in run_around_example_hooks_for'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:320:in `call'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:320:in `call'
+  spec/params_spec.rb:17:in `block (2 levels) in <top (required)>'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:425:in `instance_exec'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:425:in `instance_exec'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:389:in `execute_with'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:620:in `block (2 levels) in run_around_example_hooks_for'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:320:in `call'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:320:in `call'
+  rspec-rails (3.4.2) lib/rspec/rails/adapters.rb:127:in `block (2 levels) in <module:MinitestLifecycleAdapter>'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:425:in `instance_exec'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:425:in `instance_exec'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:389:in `execute_with'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:620:in `block (2 levels) in run_around_example_hooks_for'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:320:in `call'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:320:in `call'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:621:in `run_around_example_hooks_for'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:478:in `run'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:435:in `with_around_example_hooks'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:478:in `with_around_and_singleton_context_hooks'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:233:in `run'
+  rspec-core (3.4.4) lib/rspec/core/example_group.rb:581:in `block in run_examples'
+  rspec-core (3.4.4) lib/rspec/core/example_group.rb:577:in `map'
+  rspec-core (3.4.4) lib/rspec/core/example_group.rb:577:in `run_examples'
+  rspec-core (3.4.4) lib/rspec/core/example_group.rb:543:in `run'
+  rspec-core (3.4.4) lib/rspec/core/example_group.rb:544:in `block in run'
+  rspec-core (3.4.4) lib/rspec/core/example_group.rb:544:in `map'
+  rspec-core (3.4.4) lib/rspec/core/example_group.rb:544:in `run'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:119:in `block (3 levels) in run_specs'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:119:in `map'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:119:in `block (2 levels) in run_specs'
+  rspec-core (3.4.4) lib/rspec/core/configuration.rb:1680:in `with_suite_hooks'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:118:in `block in run_specs'
+  rspec-core (3.4.4) lib/rspec/core/reporter.rb:77:in `report'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:117:in `run_specs'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:93:in `run'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:78:in `run'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:45:in `invoke'
+  rspec-core (3.4.4) exe/rspec:4:in `<top (required)>'
+  C:/RailsInstaller/Ruby2.1.0/bin/rspec:23:in `load'
+  C:/RailsInstaller/Ruby2.1.0/bin/rspec:23:in `<main>'
+
+
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started POST "/api/races" for 127.0.0.1 at 2016-04-30 13:11:32 -0500
+Processing by Api::RacesController#create as HTML
+  Parameters: {"race"=>{"name"=>"Meager Mile"}}
+  Rendered text template (0.0ms)
+Completed 200 OK in 2ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/api/races/5724f5547cfc5ad6541aba42" for 127.0.0.1 at 2016-04-30 13:11:32 -0500
+Processing by Api::RacesController#show as XML
+  Parameters: {"id"=>"5724f5547cfc5ad6541aba42", "race"=>{}}
+  Rendered api/races/race.xml.builder (38.1ms)
+Completed 200 OK in 47ms (Views: 45.1ms | ActiveRecord: 0.0ms)
+Started GET "/api/races/5724f5547cfc5ad6541aba43" for 127.0.0.1 at 2016-04-30 13:11:32 -0500
+Processing by Api::RacesController#show as XML
+  Parameters: {"id"=>"5724f5547cfc5ad6541aba43"}
+  Rendered api/races/error.xml.builder (1.0ms)
+Completed 404 Not Found in 7ms (Views: 4.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/api/races/5724f5547cfc5ad6541aba44" for 127.0.0.1 at 2016-04-30 13:11:32 -0500
+Processing by Api::RacesController#show as JSON
+  Parameters: {"id"=>"5724f5547cfc5ad6541aba44"}
+  Rendered api/races/race.json.jbuilder (0.0ms)
+Completed 200 OK in 3ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+Started GET "/api/races/5724f5547cfc5ad6541aba45" for 127.0.0.1 at 2016-04-30 13:11:32 -0500
+Processing by Api::RacesController#show as JSON
+  Parameters: {"id"=>"5724f5547cfc5ad6541aba45", "race"=>{}}
+  Rendered api/races/error.json.jbuilder (0.0ms)
+Completed 404 Not Found in 3ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/api/races/5724f5547cfc5ad6541aba46" for 127.0.0.1 at 2016-04-30 13:11:32 -0500
+Processing by Api::RacesController#show as TEXT
+  Parameters: {"id"=>"5724f5547cfc5ad6541aba46", "race"=>{}}
+  Rendered text template (0.0ms)
+Completed 415 Unsupported Media Type in 5ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.5ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.5ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/api/racers" for 127.0.0.1 at 2016-04-30 13:11:33 -0500
+Processing by Api::RacersController#index as HTML
+  Parameters: {"racer"=>{}}
+  Rendered text template (0.0ms)
+Completed 200 OK in 2ms (Views: 1.5ms | ActiveRecord: 0.0ms)
+Started GET "/api/racers/abc" for 127.0.0.1 at 2016-04-30 13:11:33 -0500
+Processing by Api::RacersController#show as HTML
+  Parameters: {"id"=>"abc", "racer"=>{}}
+  Rendered text template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+Started GET "/api/racers/abc/entries" for 127.0.0.1 at 2016-04-30 13:11:33 -0500
+Processing by Api::EntriesController#index as HTML
+  Parameters: {"racer_id"=>"abc", "entry"=>{}}
+  Rendered text template (0.0ms)
+Completed 200 OK in 2ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+Started GET "/api/racers/abc/entries/def" for 127.0.0.1 at 2016-04-30 13:11:33 -0500
+Processing by Api::EntriesController#show as HTML
+  Parameters: {"racer_id"=>"abc", "id"=>"def", "entry"=>{}}
+  Rendered text template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+Started GET "/api/races" for 127.0.0.1 at 2016-04-30 13:11:33 -0500
+Processing by Api::RacesController#index as HTML
+  Parameters: {"race"=>{}}
+  Rendered text template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+Started GET "/api/races/abc" for 127.0.0.1 at 2016-04-30 13:11:33 -0500
+Processing by Api::RacesController#show as HTML
+  Parameters: {"id"=>"abc", "race"=>{}}
+  Rendered text template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+Started GET "/api/races/abc/results" for 127.0.0.1 at 2016-04-30 13:11:33 -0500
+Processing by Api::ResultsController#index as HTML
+  Parameters: {"race_id"=>"abc", "result"=>{}}
+  Rendered text template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+Started GET "/api/races/abc/results/def" for 127.0.0.1 at 2016-04-30 13:11:33 -0500
+Processing by Api::ResultsController#show as HTML
+  Parameters: {"race_id"=>"abc", "id"=>"def", "result"=>{}}
+  Rendered text template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+Started GET "/api/races/abc/foo/def" for 127.0.0.1 at 2016-04-30 13:11:33 -0500
+
+ActionController::RoutingError (No route matches [GET] "/api/races/abc/foo/def"):
+  actionpack (4.2.4) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.2.4) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.4) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.4) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.4) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.4) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.4) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.4) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.4) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.4) lib/action_dispatch/middleware/static.rb:116:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.4) lib/rails/engine.rb:518:in `call'
+  railties (4.2.4) lib/rails/application.rb:165:in `call'
+  rack (1.6.4) lib/rack/urlmap.rb:66:in `block in call'
+  rack (1.6.4) lib/rack/urlmap.rb:50:in `each'
+  rack (1.6.4) lib/rack/urlmap.rb:50:in `call'
+  rack-test (0.6.3) lib/rack/mock_session.rb:30:in `request'
+  rack-test (0.6.3) lib/rack/test.rb:244:in `process_request'
+  rack-test (0.6.3) lib/rack/test.rb:58:in `get'
+  C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/forwardable.rb:183:in `get'
+  capybara (2.7.0) lib/capybara/rack_test/driver.rb:95:in `get'
+  spec/uri_spec.rb:59:in `block (3 levels) in <top (required)>'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:236:in `instance_exec'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:236:in `block in run'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:478:in `block in with_around_and_singleton_context_hooks'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:435:in `block in with_around_example_hooks'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:478:in `block in run'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:618:in `block in run_around_example_hooks_for'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:320:in `call'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:320:in `call'
+  spec/uri_spec.rb:18:in `block (2 levels) in <top (required)>'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:425:in `instance_exec'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:425:in `instance_exec'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:389:in `execute_with'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:620:in `block (2 levels) in run_around_example_hooks_for'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:320:in `call'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:320:in `call'
+  rspec-rails (3.4.2) lib/rspec/rails/adapters.rb:127:in `block (2 levels) in <module:MinitestLifecycleAdapter>'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:425:in `instance_exec'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:425:in `instance_exec'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:389:in `execute_with'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:620:in `block (2 levels) in run_around_example_hooks_for'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:320:in `call'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:320:in `call'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:621:in `run_around_example_hooks_for'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:478:in `run'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:435:in `with_around_example_hooks'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:478:in `with_around_and_singleton_context_hooks'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:233:in `run'
+  rspec-core (3.4.4) lib/rspec/core/example_group.rb:581:in `block in run_examples'
+  rspec-core (3.4.4) lib/rspec/core/example_group.rb:577:in `map'
+  rspec-core (3.4.4) lib/rspec/core/example_group.rb:577:in `run_examples'
+  rspec-core (3.4.4) lib/rspec/core/example_group.rb:543:in `run'
+  rspec-core (3.4.4) lib/rspec/core/example_group.rb:544:in `block in run'
+  rspec-core (3.4.4) lib/rspec/core/example_group.rb:544:in `map'
+  rspec-core (3.4.4) lib/rspec/core/example_group.rb:544:in `run'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:119:in `block (3 levels) in run_specs'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:119:in `map'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:119:in `block (2 levels) in run_specs'
+  rspec-core (3.4.4) lib/rspec/core/configuration.rb:1680:in `with_suite_hooks'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:118:in `block in run_specs'
+  rspec-core (3.4.4) lib/rspec/core/reporter.rb:77:in `report'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:117:in `run_specs'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:93:in `run'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:78:in `run'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:45:in `invoke'
+  rspec-core (3.4.4) exe/rspec:4:in `<top (required)>'
+  C:/RailsInstaller/Ruby2.1.0/bin/rspec:23:in `load'
+  C:/RailsInstaller/Ruby2.1.0/bin/rspec:23:in `<main>'
+
+
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started POST "/api/races" for 127.0.0.1 at 2016-04-30 13:11:33 -0500
+Processing by Api::RacesController#create as HTML
+  Parameters: {"race"=>{}}
+  Rendered text template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Overwriting existing field _id in class RacerInfo.
+Started GET "/api/races/57255dfc7cfc5ae314751a76/results/57255dfd7cfc5ae314751c70" for 127.0.0.1 at 2016-04-30 20:38:05 -0500
+Processing by Api::ResultsController#show as JSON
+  Parameters: {"race_id"=>"57255dfc7cfc5ae314751a76", "id"=>"57255dfd7cfc5ae314751c70"}
+  Rendered api/results/_result.json.jbuilder (10.5ms)
+  Rendered api/results/show.json.jbuilder (32.1ms)
+Completed 200 OK in 88ms (Views: 59.6ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Overwriting existing field _id in class RacerInfo.
+Started PATCH "/api/races/572577937cfc5adcd4c4adb2/results/572577937cfc5adcd4c4aecc" for 127.0.0.1 at 2016-04-30 22:27:15 -0500
+Processing by Api::ResultsController#update as HTML
+  Parameters: {"result"=>{"swim"=>900}, "race_id"=>"572577937cfc5adcd4c4adb2", "id"=>"572577937cfc5adcd4c4aecc"}
+Completed 200 OK in 40ms (Views: 3.0ms | ActiveRecord: 0.0ms)
+Started PATCH "/api/races/572577937cfc5adcd4c4adb2/results/572577937cfc5adcd4c4aecc" for 127.0.0.1 at 2016-04-30 22:27:15 -0500
+Processing by Api::ResultsController#update as HTML
+  Parameters: {"result"=>{"t1"=>60}, "race_id"=>"572577937cfc5adcd4c4adb2", "id"=>"572577937cfc5adcd4c4aecc"}
+Completed 200 OK in 19ms (Views: 3.0ms | ActiveRecord: 0.0ms)
+Started PATCH "/api/races/572577937cfc5adcd4c4adb2/results/572577937cfc5adcd4c4aecc" for 127.0.0.1 at 2016-04-30 22:27:15 -0500
+Processing by Api::ResultsController#update as HTML
+  Parameters: {"result"=>{"bike"=>2400}, "race_id"=>"572577937cfc5adcd4c4adb2", "id"=>"572577937cfc5adcd4c4aecc"}
+Completed 200 OK in 15ms (Views: 3.0ms | ActiveRecord: 0.0ms)
+Started PATCH "/api/races/572577937cfc5adcd4c4adb2/results/572577937cfc5adcd4c4aecc" for 127.0.0.1 at 2016-04-30 22:27:15 -0500
+Processing by Api::ResultsController#update as HTML
+  Parameters: {"result"=>{"t2"=>40}, "race_id"=>"572577937cfc5adcd4c4adb2", "id"=>"572577937cfc5adcd4c4aecc"}
+Completed 200 OK in 19ms (Views: 3.5ms | ActiveRecord: 0.0ms)
+Started PATCH "/api/races/572577937cfc5adcd4c4adb2/results/572577937cfc5adcd4c4aecc" for 127.0.0.1 at 2016-04-30 22:27:15 -0500
+Processing by Api::ResultsController#update as HTML
+  Parameters: {"result"=>{"run"=>1500}, "race_id"=>"572577937cfc5adcd4c4adb2", "id"=>"572577937cfc5adcd4c4aecc"}
+Completed 200 OK in 19ms (Views: 4.0ms | ActiveRecord: 0.0ms)
+Started GET "/api/races/572577937cfc5adcd4c4adb2/results/572577937cfc5adcd4c4aecc" for 127.0.0.1 at 2016-04-30 22:27:15 -0500
+Processing by Api::ResultsController#show as JSON
+  Parameters: {"race_id"=>"572577937cfc5adcd4c4adb2", "id"=>"572577937cfc5adcd4c4aecc", "result"=>{}}
+  Rendered api/results/_result.json.jbuilder (5.5ms)
+  Rendered api/results/show.json.jbuilder (26.5ms)
+Completed 200 OK in 60ms (Views: 56.1ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+Overwriting existing field _id in class RacerInfo.
+Started GET "/api/races/572578b77cfc5aeb380d1799/results" for 127.0.0.1 at 2016-04-30 22:32:08 -0500
+Processing by Api::ResultsController#index as JSON
+  Parameters: {"race_id"=>"572578b77cfc5aeb380d1799"}
+  Rendered api/results/_result.json.jbuilder (10.0ms)
+  Rendered api/results/_result.json.jbuilder (8.5ms)
+  Rendered api/results/_result.json.jbuilder (8.5ms)
+  Rendered api/results/_result.json.jbuilder (8.5ms)
+  Rendered api/results/_result.json.jbuilder (8.5ms)
+  Rendered api/results/_result.json.jbuilder (9.0ms)
+  Rendered api/results/index.json.jbuilder (79.2ms)
+Completed 200 OK in 154ms (Views: 112.7ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+Started GET "/api/races/572578b87cfc5aeb380d1a0d/results" for 127.0.0.1 at 2016-04-30 22:32:09 -0500
+Processing by Api::ResultsController#index as JSON
+  Parameters: {"race_id"=>"572578b87cfc5aeb380d1a0d"}
+  Rendered api/results/index.json.jbuilder (1.0ms)
+Completed 200 OK in 5ms (Views: 1.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Overwriting existing field _id in class RacerInfo.
+Started GET "/api/races/572578ee7cfc5ad8444875e2/results" for 127.0.0.1 at 2016-04-30 22:33:05 -0500
+Processing by Api::ResultsController#index as JSON
+  Parameters: {"race_id"=>"572578ee7cfc5ad8444875e2"}
+  Rendered api/results/_result.json.jbuilder (10.0ms)
+  Rendered api/results/_result.json.jbuilder (9.0ms)
+  Rendered api/results/_result.json.jbuilder (8.5ms)
+  Rendered api/results/_result.json.jbuilder (9.5ms)
+  Rendered api/results/_result.json.jbuilder (9.0ms)
+  Rendered api/results/_result.json.jbuilder (9.5ms)
+  Rendered api/results/index.json.jbuilder (82.7ms)
+Completed 200 OK in 138ms (Views: 111.2ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Overwriting existing field _id in class RacerInfo.
+Started GET "/api/races/572579187cfc5ae4dc8ed345/results" for 127.0.0.1 at 2016-04-30 22:33:47 -0500
+Processing by Api::ResultsController#index as JSON
+  Parameters: {"race_id"=>"572579187cfc5ae4dc8ed345"}
+  Rendered api/results/_result.json.jbuilder (17.0ms)
+  Rendered api/results/_result.json.jbuilder (16.5ms)
+  Rendered api/results/_result.json.jbuilder (14.5ms)
+  Rendered api/results/_result.json.jbuilder (17.0ms)
+  Rendered api/results/_result.json.jbuilder (12.5ms)
+  Rendered api/results/_result.json.jbuilder (15.0ms)
+  Rendered api/results/index.json.jbuilder (135.7ms)
+Completed 200 OK in 214ms (Views: 173.8ms | ActiveRecord: 0.0ms)
+Started GET "/api/races/572579187cfc5ae4dc8ed345/results" for 127.0.0.1 at 2016-04-30 22:33:47 -0500
+Processing by Api::ResultsController#index as JSON
+  Parameters: {"race_id"=>"572579187cfc5ae4dc8ed345"}
+Completed 304 Not Modified in 7ms (ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Overwriting existing field _id in class RacerInfo.
+Started GET "/api/races/572579917cfc5ad8ecc71547/results" for 127.0.0.1 at 2016-04-30 22:35:48 -0500
+Processing by Api::ResultsController#index as JSON
+  Parameters: {"race_id"=>"572579917cfc5ad8ecc71547"}
+  Rendered api/results/_result.json.jbuilder (10.5ms)
+  Rendered api/results/_result.json.jbuilder (9.0ms)
+  Rendered api/results/_result.json.jbuilder (9.5ms)
+  Rendered api/results/_result.json.jbuilder (9.0ms)
+  Rendered api/results/_result.json.jbuilder (9.0ms)
+  Rendered api/results/_result.json.jbuilder (8.5ms)
+  Rendered api/results/index.json.jbuilder (83.6ms)
+Completed 200 OK in 147ms (Views: 116.2ms | ActiveRecord: 0.0ms)
+Started PATCH "/api/races/572579917cfc5ad8ecc71547/results/572579927cfc5ad8ecc71741" for 127.0.0.1 at 2016-04-30 22:35:49 -0500
+Processing by Api::ResultsController#update as JSON
+  Parameters: {"result"=>{"swim"=>3300}, "race_id"=>"572579917cfc5ad8ecc71547", "id"=>"572579927cfc5ad8ecc71741"}
+Completed 200 OK in 17ms (Views: 3.5ms | ActiveRecord: 0.0ms)
+Started GET "/api/races/572579917cfc5ad8ecc71547/results" for 127.0.0.1 at 2016-04-30 22:35:49 -0500
+Processing by Api::ResultsController#index as JSON
+  Parameters: {"race_id"=>"572579917cfc5ad8ecc71547", "result"=>{}}
+  Rendered api/results/_result.json.jbuilder (9.5ms)
+  Rendered api/results/_result.json.jbuilder (8.5ms)
+  Rendered api/results/_result.json.jbuilder (9.0ms)
+  Rendered api/results/_result.json.jbuilder (8.3ms)
+  Rendered api/results/_result.json.jbuilder (9.0ms)
+  Rendered api/results/_result.json.jbuilder (8.5ms)
+  Rendered api/results/index.json.jbuilder (68.7ms)
+Completed 200 OK in 74ms (Views: 69.7ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Overwriting existing field _id in class RacerInfo.
+Started GET "/api/races/572579d07cfc5ae9f88043da/results" for 127.0.0.1 at 2016-04-30 22:36:52 -0500
+Processing by Api::ResultsController#index as JSON
+  Parameters: {"race_id"=>"572579d07cfc5ae9f88043da"}
+  Rendered api/results/_result.json.jbuilder (11.5ms)
+  Rendered api/results/_result.json.jbuilder (9.5ms)
+  Rendered api/results/_result.json.jbuilder (9.0ms)
+  Rendered api/results/_result.json.jbuilder (9.5ms)
+  Rendered api/results/_result.json.jbuilder (8.5ms)
+  Rendered api/results/_result.json.jbuilder (8.5ms)
+  Rendered api/results/index.json.jbuilder (84.2ms)
+Completed 200 OK in 140ms (Views: 112.2ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/api/races/572579d47cfc5ae9f880460a/results" for 127.0.0.1 at 2016-04-30 22:36:55 -0500
+Processing by Api::ResultsController#index as JSON
+  Parameters: {"race_id"=>"572579d47cfc5ae9f880460a"}
+  Rendered api/results/_result.json.jbuilder (9.0ms)
+  Rendered api/results/_result.json.jbuilder (8.8ms)
+  Rendered api/results/_result.json.jbuilder (9.0ms)
+  Rendered api/results/_result.json.jbuilder (8.5ms)
+  Rendered api/results/_result.json.jbuilder (8.0ms)
+  Rendered api/results/_result.json.jbuilder (8.0ms)
+  Rendered api/results/index.json.jbuilder (57.9ms)
+Completed 200 OK in 62ms (Views: 58.9ms | ActiveRecord: 0.0ms)
+Started GET "/api/races/572579d47cfc5ae9f880460a/results" for 127.0.0.1 at 2016-04-30 22:36:55 -0500
+Processing by Api::ResultsController#index as JSON
+  Parameters: {"race_id"=>"572579d47cfc5ae9f880460a"}
+Completed 304 Not Modified in 5ms (ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/api/races/572579d77cfc5ae9f880483a/results" for 127.0.0.1 at 2016-04-30 22:37:00 -0500
+Processing by Api::ResultsController#index as JSON
+  Parameters: {"race_id"=>"572579d77cfc5ae9f880483a"}
+  Rendered api/results/_result.json.jbuilder (10.5ms)
+  Rendered api/results/_result.json.jbuilder (10.0ms)
+  Rendered api/results/_result.json.jbuilder (11.0ms)
+  Rendered api/results/_result.json.jbuilder (18.5ms)
+  Rendered api/results/_result.json.jbuilder (8.5ms)
+  Rendered api/results/_result.json.jbuilder (8.5ms)
+  Rendered api/results/index.json.jbuilder (73.6ms)
+Completed 200 OK in 78ms (Views: 74.6ms | ActiveRecord: 0.0ms)
+Started PATCH "/api/races/572579d77cfc5ae9f880483a/results/572579d87cfc5ae9f8804a34" for 127.0.0.1 at 2016-04-30 22:37:01 -0500
+Processing by Api::ResultsController#update as JSON
+  Parameters: {"result"=>{"swim"=>3300}, "race_id"=>"572579d77cfc5ae9f880483a", "id"=>"572579d87cfc5ae9f8804a34"}
+Completed 200 OK in 22ms (Views: 3.0ms | ActiveRecord: 0.0ms)
+Started GET "/api/races/572579d77cfc5ae9f880483a/results" for 127.0.0.1 at 2016-04-30 22:37:01 -0500
+Processing by Api::ResultsController#index as JSON
+  Parameters: {"race_id"=>"572579d77cfc5ae9f880483a", "result"=>{}}
+  Rendered api/results/_result.json.jbuilder (9.5ms)
+  Rendered api/results/_result.json.jbuilder (8.5ms)
+  Rendered api/results/_result.json.jbuilder (7.0ms)
+  Rendered api/results/_result.json.jbuilder (8.5ms)
+  Rendered api/results/_result.json.jbuilder (9.0ms)
+  Rendered api/results/_result.json.jbuilder (9.0ms)
+  Rendered api/results/index.json.jbuilder (58.1ms)
+Completed 200 OK in 63ms (Views: 59.1ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started PUT "/api/races/572579dd7cfc5ae9f8804a6b" for 127.0.0.1 at 2016-04-30 22:37:01 -0500
+Processing by Api::RacesController#update as JSON
+  Parameters: {"race"=>{"name"=>"Modified Race", "date"=>"2016-05-01"}, "id"=>"572579dd7cfc5ae9f8804a6b"}
+  Rendered api/races/error.json.jbuilder (1.0ms)
+Completed 404 Not Found in 8ms (Views: 5.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.5ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started POST "/api/races" for 127.0.0.1 at 2016-04-30 22:37:01 -0500
+Processing by Api::RacesController#create as plain/text
+  Parameters: {"race"=>{"name"=>"First Race", "date"=>"2016-05-01"}}
+  Rendered text template (0.0ms)
+Completed 201 Created in 10ms (Views: 6.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/api/races/572579dd7cfc5ae9f8804a6d" for 127.0.0.1 at 2016-04-30 22:37:01 -0500
+Processing by Api::RacesController#show as JSON
+  Parameters: {"id"=>"572579dd7cfc5ae9f8804a6d", "race"=>{}}
+  Rendered text template (0.0ms)
+Completed 415 Unsupported Media Type in 6ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/api/races?offset=10&limit=50" for 127.0.0.1 at 2016-04-30 22:37:01 -0500
+Processing by Api::RacesController#index as HTML
+  Parameters: {"offset"=>"10", "limit"=>"50", "race"=>{}}
+  Rendered text template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started POST "/api/races" for 127.0.0.1 at 2016-04-30 22:37:01 -0500
+Processing by Api::RacesController#create as HTML
+  Parameters: {"race"=>{"name"=>"Meager Mile"}}
+  Rendered text template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started POST "/api/races" for 127.0.0.1 at 2016-04-30 22:37:01 -0500
+Error occurred while parsing request parameters.
+Contents:
+
+race[name]=Meager+Mile
+
+ActionDispatch::ParamsParser::ParseError (795: unexpected token at 'race[name]=Meager+Mile'):
+  actionpack (4.2.4) lib/action_dispatch/middleware/params_parser.rb:53:in `rescue in parse_formatted_parameters'
+  actionpack (4.2.4) lib/action_dispatch/middleware/params_parser.rb:32:in `parse_formatted_parameters'
+  actionpack (4.2.4) lib/action_dispatch/middleware/params_parser.rb:23:in `call'
+  actionpack (4.2.4) lib/action_dispatch/middleware/flash.rb:260:in `call'
+  rack (1.6.4) lib/rack/session/abstract/id.rb:225:in `context'
+  rack (1.6.4) lib/rack/session/abstract/id.rb:220:in `call'
+  actionpack (4.2.4) lib/action_dispatch/middleware/cookies.rb:560:in `call'
+  activerecord (4.2.4) lib/active_record/query_cache.rb:36:in `call'
+  activerecord (4.2.4) lib/active_record/connection_adapters/abstract/connection_pool.rb:653:in `call'
+  actionpack (4.2.4) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+  activesupport (4.2.4) lib/active_support/callbacks.rb:88:in `__run_callbacks__'
+  activesupport (4.2.4) lib/active_support/callbacks.rb:778:in `_run_call_callbacks'
+  activesupport (4.2.4) lib/active_support/callbacks.rb:81:in `run_callbacks'
+  actionpack (4.2.4) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (4.2.4) lib/action_dispatch/middleware/remote_ip.rb:78:in `call'
+  actionpack (4.2.4) lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call'
+  actionpack (4.2.4) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.4) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.4) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.4) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.4) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.4) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.4) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.4) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.4) lib/action_dispatch/middleware/static.rb:116:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.4) lib/rails/engine.rb:518:in `call'
+  railties (4.2.4) lib/rails/application.rb:165:in `call'
+  rack (1.6.4) lib/rack/urlmap.rb:66:in `block in call'
+  rack (1.6.4) lib/rack/urlmap.rb:50:in `each'
+  rack (1.6.4) lib/rack/urlmap.rb:50:in `call'
+  rack-test (0.6.3) lib/rack/mock_session.rb:30:in `request'
+  rack-test (0.6.3) lib/rack/test.rb:244:in `process_request'
+  rack-test (0.6.3) lib/rack/test.rb:67:in `post'
+  C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/forwardable.rb:183:in `post'
+  capybara (2.7.0) lib/capybara/rack_test/driver.rb:96:in `post'
+  spec/params_spec.rb:52:in `block (3 levels) in <top (required)>'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:236:in `instance_exec'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:236:in `block in run'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:478:in `block in with_around_and_singleton_context_hooks'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:435:in `block in with_around_example_hooks'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:478:in `block in run'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:618:in `block in run_around_example_hooks_for'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:320:in `call'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:320:in `call'
+  spec/params_spec.rb:17:in `block (2 levels) in <top (required)>'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:425:in `instance_exec'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:425:in `instance_exec'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:389:in `execute_with'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:620:in `block (2 levels) in run_around_example_hooks_for'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:320:in `call'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:320:in `call'
+  rspec-rails (3.4.2) lib/rspec/rails/adapters.rb:127:in `block (2 levels) in <module:MinitestLifecycleAdapter>'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:425:in `instance_exec'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:425:in `instance_exec'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:389:in `execute_with'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:620:in `block (2 levels) in run_around_example_hooks_for'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:320:in `call'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:320:in `call'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:621:in `run_around_example_hooks_for'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:478:in `run'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:435:in `with_around_example_hooks'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:478:in `with_around_and_singleton_context_hooks'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:233:in `run'
+  rspec-core (3.4.4) lib/rspec/core/example_group.rb:581:in `block in run_examples'
+  rspec-core (3.4.4) lib/rspec/core/example_group.rb:577:in `map'
+  rspec-core (3.4.4) lib/rspec/core/example_group.rb:577:in `run_examples'
+  rspec-core (3.4.4) lib/rspec/core/example_group.rb:543:in `run'
+  rspec-core (3.4.4) lib/rspec/core/example_group.rb:544:in `block in run'
+  rspec-core (3.4.4) lib/rspec/core/example_group.rb:544:in `map'
+  rspec-core (3.4.4) lib/rspec/core/example_group.rb:544:in `run'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:119:in `block (3 levels) in run_specs'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:119:in `map'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:119:in `block (2 levels) in run_specs'
+  rspec-core (3.4.4) lib/rspec/core/configuration.rb:1680:in `with_suite_hooks'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:118:in `block in run_specs'
+  rspec-core (3.4.4) lib/rspec/core/reporter.rb:77:in `report'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:117:in `run_specs'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:93:in `run'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:78:in `run'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:45:in `invoke'
+  rspec-core (3.4.4) exe/rspec:4:in `<top (required)>'
+  C:/RailsInstaller/Ruby2.1.0/bin/rspec:23:in `load'
+  C:/RailsInstaller/Ruby2.1.0/bin/rspec:23:in `<main>'
+
+
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+Started POST "/api/races" for 127.0.0.1 at 2016-04-30 22:37:01 -0500
+Processing by Api::RacesController#create as HTML
+  Parameters: {"race"=>{"name"=>"Meager Mile"}}
+  Rendered text template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/api/races/572579dd7cfc5ae9f8804a6e" for 127.0.0.1 at 2016-04-30 22:37:01 -0500
+Processing by Api::RacesController#show as XML
+  Parameters: {"id"=>"572579dd7cfc5ae9f8804a6e", "race"=>{}}
+  Rendered text template (0.0ms)
+Completed 415 Unsupported Media Type in 6ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/api/races/572579dd7cfc5ae9f8804a6f/results/572579de7cfc5ae9f8804c69" for 127.0.0.1 at 2016-04-30 22:37:02 -0500
+Processing by Api::ResultsController#show as JSON
+  Parameters: {"race_id"=>"572579dd7cfc5ae9f8804a6f", "id"=>"572579de7cfc5ae9f8804c69", "result"=>{}}
+  Rendered api/results/_result.json.jbuilder (9.5ms)
+  Rendered api/results/show.json.jbuilder (10.5ms)
+Completed 200 OK in 18ms (Views: 14.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started PATCH "/api/races/572579df7cfc5ae9f8804dfb/results/572579df7cfc5ae9f8804ed5" for 127.0.0.1 at 2016-04-30 22:37:03 -0500
+Processing by Api::ResultsController#update as JSON
+  Parameters: {"result"=>{"swim"=>900}, "race_id"=>"572579df7cfc5ae9f8804dfb", "id"=>"572579df7cfc5ae9f8804ed5"}
+Completed 200 OK in 15ms (Views: 3.0ms | ActiveRecord: 0.0ms)
+Started PATCH "/api/races/572579df7cfc5ae9f8804dfb/results/572579df7cfc5ae9f8804ed5" for 127.0.0.1 at 2016-04-30 22:37:03 -0500
+Processing by Api::ResultsController#update as JSON
+  Parameters: {"result"=>{"t1"=>60}, "race_id"=>"572579df7cfc5ae9f8804dfb", "id"=>"572579df7cfc5ae9f8804ed5"}
+Completed 200 OK in 19ms (Views: 3.0ms | ActiveRecord: 0.0ms)
+Started PATCH "/api/races/572579df7cfc5ae9f8804dfb/results/572579df7cfc5ae9f8804ed5" for 127.0.0.1 at 2016-04-30 22:37:03 -0500
+Processing by Api::ResultsController#update as JSON
+  Parameters: {"result"=>{"bike"=>2400}, "race_id"=>"572579df7cfc5ae9f8804dfb", "id"=>"572579df7cfc5ae9f8804ed5"}
+Completed 200 OK in 16ms (Views: 3.0ms | ActiveRecord: 0.0ms)
+Started PATCH "/api/races/572579df7cfc5ae9f8804dfb/results/572579df7cfc5ae9f8804ed5" for 127.0.0.1 at 2016-04-30 22:37:03 -0500
+Processing by Api::ResultsController#update as JSON
+  Parameters: {"result"=>{"t2"=>40}, "race_id"=>"572579df7cfc5ae9f8804dfb", "id"=>"572579df7cfc5ae9f8804ed5"}
+Completed 200 OK in 22ms (Views: 4.5ms | ActiveRecord: 0.0ms)
+Started PATCH "/api/races/572579df7cfc5ae9f8804dfb/results/572579df7cfc5ae9f8804ed5" for 127.0.0.1 at 2016-04-30 22:37:03 -0500
+Processing by Api::ResultsController#update as JSON
+  Parameters: {"result"=>{"run"=>1500}, "race_id"=>"572579df7cfc5ae9f8804dfb", "id"=>"572579df7cfc5ae9f8804ed5"}
+Completed 200 OK in 22ms (Views: 3.5ms | ActiveRecord: 0.0ms)
+Started GET "/api/races/572579df7cfc5ae9f8804dfb/results/572579df7cfc5ae9f8804ed5" for 127.0.0.1 at 2016-04-30 22:37:03 -0500
+Processing by Api::ResultsController#show as JSON
+  Parameters: {"race_id"=>"572579df7cfc5ae9f8804dfb", "id"=>"572579df7cfc5ae9f8804ed5", "result"=>{}}
+  Rendered api/results/_result.json.jbuilder (5.5ms)
+  Rendered api/results/show.json.jbuilder (6.5ms)
+Completed 200 OK in 11ms (Views: 7.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/api/races/572579df7cfc5ae9f8804ee4/results" for 127.0.0.1 at 2016-04-30 22:37:04 -0500
+Processing by Api::ResultsController#index as JSON
+  Parameters: {"race_id"=>"572579df7cfc5ae9f8804ee4", "result"=>{}}
+  Rendered api/results/_result.json.jbuilder (9.5ms)
+  Rendered api/results/_result.json.jbuilder (9.0ms)
+  Rendered api/results/_result.json.jbuilder (8.5ms)
+  Rendered api/results/_result.json.jbuilder (9.5ms)
+  Rendered api/results/_result.json.jbuilder (8.5ms)
+  Rendered api/results/_result.json.jbuilder (9.0ms)
+  Rendered api/results/index.json.jbuilder (60.6ms)
+Completed 200 OK in 66ms (Views: 61.6ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/api/races/572579e07cfc5ae9f8805114/results" for 127.0.0.1 at 2016-04-30 22:37:05 -0500
+Processing by Api::ResultsController#index as JSON
+  Parameters: {"race_id"=>"572579e07cfc5ae9f8805114", "result"=>{}}
+  Rendered api/results/index.json.jbuilder (1.0ms)
+Completed 200 OK in 6ms (Views: 2.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+Started GET "/api/racers" for 127.0.0.1 at 2016-04-30 22:37:05 -0500
+Processing by Api::RacersController#index as HTML
+  Parameters: {"racer"=>{}}
+  Rendered text template (0.0ms)
+Completed 200 OK in 1ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+Started GET "/api/racers/abc" for 127.0.0.1 at 2016-04-30 22:37:05 -0500
+Processing by Api::RacersController#show as HTML
+  Parameters: {"id"=>"abc", "racer"=>{}}
+  Rendered text template (0.5ms)
+Completed 200 OK in 1ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+Started GET "/api/racers/abc/entries" for 127.0.0.1 at 2016-04-30 22:37:05 -0500
+Processing by Api::EntriesController#index as HTML
+  Parameters: {"racer_id"=>"abc", "entry"=>{}}
+  Rendered text template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+Started GET "/api/racers/abc/entries/def" for 127.0.0.1 at 2016-04-30 22:37:05 -0500
+Processing by Api::EntriesController#show as HTML
+  Parameters: {"racer_id"=>"abc", "id"=>"def", "entry"=>{}}
+  Rendered text template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+Started GET "/api/races" for 127.0.0.1 at 2016-04-30 22:37:05 -0500
+Processing by Api::RacesController#index as HTML
+  Parameters: {"race"=>{}}
+  Rendered text template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+Started GET "/api/races/abc" for 127.0.0.1 at 2016-04-30 22:37:05 -0500
+Processing by Api::RacesController#show as HTML
+  Parameters: {"id"=>"abc", "race"=>{}}
+  Rendered text template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+Started GET "/api/races/abc/results" for 127.0.0.1 at 2016-04-30 22:37:05 -0500
+Processing by Api::ResultsController#index as HTML
+  Parameters: {"race_id"=>"abc", "result"=>{}}
+  Rendered text template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+Started GET "/api/races/abc/results/def" for 127.0.0.1 at 2016-04-30 22:37:05 -0500
+Processing by Api::ResultsController#show as HTML
+  Parameters: {"race_id"=>"abc", "id"=>"def", "result"=>{}}
+  Rendered text template (0.5ms)
+Completed 200 OK in 1ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.5ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/api/races/abc/foo/def" for 127.0.0.1 at 2016-04-30 22:37:05 -0500
+
+ActionController::RoutingError (No route matches [GET] "/api/races/abc/foo/def"):
+  actionpack (4.2.4) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.2.4) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.4) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.4) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.4) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.4) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.4) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.4) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.4) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.4) lib/action_dispatch/middleware/static.rb:116:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.4) lib/rails/engine.rb:518:in `call'
+  railties (4.2.4) lib/rails/application.rb:165:in `call'
+  rack (1.6.4) lib/rack/urlmap.rb:66:in `block in call'
+  rack (1.6.4) lib/rack/urlmap.rb:50:in `each'
+  rack (1.6.4) lib/rack/urlmap.rb:50:in `call'
+  rack-test (0.6.3) lib/rack/mock_session.rb:30:in `request'
+  rack-test (0.6.3) lib/rack/test.rb:244:in `process_request'
+  rack-test (0.6.3) lib/rack/test.rb:58:in `get'
+  C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/forwardable.rb:183:in `get'
+  capybara (2.7.0) lib/capybara/rack_test/driver.rb:95:in `get'
+  spec/uri_spec.rb:59:in `block (3 levels) in <top (required)>'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:236:in `instance_exec'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:236:in `block in run'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:478:in `block in with_around_and_singleton_context_hooks'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:435:in `block in with_around_example_hooks'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:478:in `block in run'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:618:in `block in run_around_example_hooks_for'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:320:in `call'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:320:in `call'
+  spec/uri_spec.rb:18:in `block (2 levels) in <top (required)>'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:425:in `instance_exec'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:425:in `instance_exec'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:389:in `execute_with'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:620:in `block (2 levels) in run_around_example_hooks_for'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:320:in `call'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:320:in `call'
+  rspec-rails (3.4.2) lib/rspec/rails/adapters.rb:127:in `block (2 levels) in <module:MinitestLifecycleAdapter>'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:425:in `instance_exec'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:425:in `instance_exec'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:389:in `execute_with'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:620:in `block (2 levels) in run_around_example_hooks_for'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:320:in `call'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:320:in `call'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:621:in `run_around_example_hooks_for'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:478:in `run'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:435:in `with_around_example_hooks'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:478:in `with_around_and_singleton_context_hooks'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:233:in `run'
+  rspec-core (3.4.4) lib/rspec/core/example_group.rb:581:in `block in run_examples'
+  rspec-core (3.4.4) lib/rspec/core/example_group.rb:577:in `map'
+  rspec-core (3.4.4) lib/rspec/core/example_group.rb:577:in `run_examples'
+  rspec-core (3.4.4) lib/rspec/core/example_group.rb:543:in `run'
+  rspec-core (3.4.4) lib/rspec/core/example_group.rb:544:in `block in run'
+  rspec-core (3.4.4) lib/rspec/core/example_group.rb:544:in `map'
+  rspec-core (3.4.4) lib/rspec/core/example_group.rb:544:in `run'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:119:in `block (3 levels) in run_specs'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:119:in `map'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:119:in `block (2 levels) in run_specs'
+  rspec-core (3.4.4) lib/rspec/core/configuration.rb:1680:in `with_suite_hooks'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:118:in `block in run_specs'
+  rspec-core (3.4.4) lib/rspec/core/reporter.rb:77:in `report'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:117:in `run_specs'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:93:in `run'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:78:in `run'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:45:in `invoke'
+  rspec-core (3.4.4) exe/rspec:4:in `<top (required)>'
+  C:/RailsInstaller/Ruby2.1.0/bin/rspec:23:in `load'
+  C:/RailsInstaller/Ruby2.1.0/bin/rspec:23:in `<main>'
+
+
+  [1m[35m (0.5ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+Started POST "/api/races" for 127.0.0.1 at 2016-04-30 22:37:05 -0500
+Processing by Api::RacesController#create as HTML
+  Parameters: {"race"=>{}}
+  Rendered text template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/api/races/57257ad07cfc5ae8f08fc50b" for 127.0.0.1 at 2016-04-30 22:41:04 -0500
+Processing by Api::RacesController#show as JSON
+  Parameters: {"id"=>"57257ad07cfc5ae8f08fc50b"}
+  Rendered api/races/race.json.jbuilder (12.0ms)
+Completed 200 OK in 74ms (Views: 49.1ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started PUT "/api/races/57257b4b7cfc5a10c4609f13" for 127.0.0.1 at 2016-04-30 22:43:07 -0500
+Processing by Api::RacesController#update as HTML
+  Parameters: {"race"=>{"name"=>"Modified Race", "date"=>"2016-05-01"}, "id"=>"57257b4b7cfc5a10c4609f13"}
+Completed 200 OK in 30ms (Views: 1.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Overwriting existing field _id in class RacerInfo.
+Started GET "/api/races/57257b747cfc5ae84087c486/results" for 127.0.0.1 at 2016-04-30 22:43:51 -0500
+Processing by Api::ResultsController#index as JSON
+  Parameters: {"race_id"=>"57257b747cfc5ae84087c486"}
+  Rendered api/results/_result.json.jbuilder (16.5ms)
+  Rendered api/results/_result.json.jbuilder (14.5ms)
+  Rendered api/results/_result.json.jbuilder (16.5ms)
+  Rendered api/results/_result.json.jbuilder (16.0ms)
+  Rendered api/results/_result.json.jbuilder (20.0ms)
+  Rendered api/results/_result.json.jbuilder (15.0ms)
+  Rendered api/results/index.json.jbuilder (134.7ms)
+Completed 200 OK in 234ms (Views: 190.3ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+Started GET "/api/races/57257b777cfc5ae84087c6b6/results" for 127.0.0.1 at 2016-04-30 22:43:55 -0500
+Processing by Api::ResultsController#index as JSON
+  Parameters: {"race_id"=>"57257b777cfc5ae84087c6b6"}
+  Rendered api/results/_result.json.jbuilder (12.5ms)
+  Rendered api/results/_result.json.jbuilder (13.5ms)
+  Rendered api/results/_result.json.jbuilder (9.5ms)
+  Rendered api/results/_result.json.jbuilder (12.5ms)
+  Rendered api/results/_result.json.jbuilder (9.0ms)
+  Rendered api/results/_result.json.jbuilder (9.0ms)
+  Rendered api/results/index.json.jbuilder (73.6ms)
+Completed 200 OK in 79ms (Views: 74.1ms | ActiveRecord: 0.0ms)
+Started GET "/api/races/57257b777cfc5ae84087c6b6/results" for 127.0.0.1 at 2016-04-30 22:43:55 -0500
+Processing by Api::ResultsController#index as JSON
+  Parameters: {"race_id"=>"57257b777cfc5ae84087c6b6"}
+Completed 304 Not Modified in 5ms (ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/api/races/57257b7b7cfc5ae84087c8e6/results" for 127.0.0.1 at 2016-04-30 22:43:59 -0500
+Processing by Api::ResultsController#index as JSON
+  Parameters: {"race_id"=>"57257b7b7cfc5ae84087c8e6"}
+  Rendered api/results/_result.json.jbuilder (9.0ms)
+  Rendered api/results/_result.json.jbuilder (13.0ms)
+  Rendered api/results/_result.json.jbuilder (9.5ms)
+  Rendered api/results/_result.json.jbuilder (9.5ms)
+  Rendered api/results/_result.json.jbuilder (12.0ms)
+  Rendered api/results/_result.json.jbuilder (12.5ms)
+  Rendered api/results/index.json.jbuilder (72.6ms)
+Completed 200 OK in 78ms (Views: 73.1ms | ActiveRecord: 0.0ms)
+Started PATCH "/api/races/57257b7b7cfc5ae84087c8e6/results/57257b7c7cfc5ae84087cae0" for 127.0.0.1 at 2016-04-30 22:44:00 -0500
+Processing by Api::ResultsController#update as JSON
+  Parameters: {"result"=>{"swim"=>3300}, "race_id"=>"57257b7b7cfc5ae84087c8e6", "id"=>"57257b7c7cfc5ae84087cae0"}
+Completed 200 OK in 18ms (Views: 3.0ms | ActiveRecord: 0.0ms)
+Started GET "/api/races/57257b7b7cfc5ae84087c8e6/results" for 127.0.0.1 at 2016-04-30 22:44:00 -0500
+Processing by Api::ResultsController#index as JSON
+  Parameters: {"race_id"=>"57257b7b7cfc5ae84087c8e6", "result"=>{}}
+  Rendered api/results/_result.json.jbuilder (11.0ms)
+  Rendered api/results/_result.json.jbuilder (10.5ms)
+  Rendered api/results/_result.json.jbuilder (12.0ms)
+  Rendered api/results/_result.json.jbuilder (9.5ms)
+  Rendered api/results/_result.json.jbuilder (9.5ms)
+  Rendered api/results/_result.json.jbuilder (10.0ms)
+  Rendered api/results/index.json.jbuilder (68.6ms)
+Completed 200 OK in 75ms (Views: 69.6ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started PUT "/api/races/57257b807cfc5ae84087cb17" for 127.0.0.1 at 2016-04-30 22:44:00 -0500
+Processing by Api::RacesController#update as JSON
+  Parameters: {"race"=>{"name"=>"Modified Race", "date"=>"2016-05-01"}, "id"=>"57257b807cfc5ae84087cb17"}
+  Rendered api/races/error.json.jbuilder (0.5ms)
+Completed 404 Not Found in 8ms (Views: 5.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started POST "/api/races" for 127.0.0.1 at 2016-04-30 22:44:00 -0500
+Processing by Api::RacesController#create as plain/text
+  Parameters: {"race"=>{"name"=>"First Race", "date"=>"2016-05-01"}}
+  Rendered text template (0.0ms)
+Completed 201 Created in 21ms (Views: 5.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/api/races/57257b807cfc5ae84087cb19" for 127.0.0.1 at 2016-04-30 22:44:00 -0500
+Processing by Api::RacesController#show as JSON
+  Parameters: {"id"=>"57257b807cfc5ae84087cb19", "race"=>{}}
+  Rendered api/races/race.json.jbuilder (0.5ms)
+Completed 200 OK in 6ms (Views: 4.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started PUT "/api/races/57257b807cfc5ae84087cb1a" for 127.0.0.1 at 2016-04-30 22:44:00 -0500
+Processing by Api::RacesController#update as JSON
+  Parameters: {"race"=>{"name"=>"Modified Race", "date"=>"2016-05-01"}, "id"=>"57257b807cfc5ae84087cb1a"}
+Completed 200 OK in 7ms (Views: 2.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+Started DELETE "/api/races/57257b807cfc5ae84087cb1b" for 127.0.0.1 at 2016-04-30 22:44:00 -0500
+Processing by Api::RacesController#destroy as JSON
+  Parameters: {"id"=>"57257b807cfc5ae84087cb1b", "race"=>{}}
+  Rendered text template (0.0ms)
+Completed 204 No Content in 9ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/api/races?offset=10&limit=50" for 127.0.0.1 at 2016-04-30 22:44:00 -0500
+Processing by Api::RacesController#index as HTML
+  Parameters: {"offset"=>"10", "limit"=>"50", "race"=>{}}
+  Rendered text template (0.0ms)
+Completed 200 OK in 2ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started POST "/api/races" for 127.0.0.1 at 2016-04-30 22:44:00 -0500
+Processing by Api::RacesController#create as HTML
+  Parameters: {"race"=>{"name"=>"Meager Mile"}}
+  Rendered text template (0.0ms)
+Completed 200 OK in 2ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started POST "/api/races" for 127.0.0.1 at 2016-04-30 22:44:00 -0500
+Error occurred while parsing request parameters.
+Contents:
+
+race[name]=Meager+Mile
+
+ActionDispatch::ParamsParser::ParseError (795: unexpected token at 'race[name]=Meager+Mile'):
+  actionpack (4.2.4) lib/action_dispatch/middleware/params_parser.rb:53:in `rescue in parse_formatted_parameters'
+  actionpack (4.2.4) lib/action_dispatch/middleware/params_parser.rb:32:in `parse_formatted_parameters'
+  actionpack (4.2.4) lib/action_dispatch/middleware/params_parser.rb:23:in `call'
+  actionpack (4.2.4) lib/action_dispatch/middleware/flash.rb:260:in `call'
+  rack (1.6.4) lib/rack/session/abstract/id.rb:225:in `context'
+  rack (1.6.4) lib/rack/session/abstract/id.rb:220:in `call'
+  actionpack (4.2.4) lib/action_dispatch/middleware/cookies.rb:560:in `call'
+  activerecord (4.2.4) lib/active_record/query_cache.rb:36:in `call'
+  activerecord (4.2.4) lib/active_record/connection_adapters/abstract/connection_pool.rb:653:in `call'
+  actionpack (4.2.4) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+  activesupport (4.2.4) lib/active_support/callbacks.rb:88:in `__run_callbacks__'
+  activesupport (4.2.4) lib/active_support/callbacks.rb:778:in `_run_call_callbacks'
+  activesupport (4.2.4) lib/active_support/callbacks.rb:81:in `run_callbacks'
+  actionpack (4.2.4) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (4.2.4) lib/action_dispatch/middleware/remote_ip.rb:78:in `call'
+  actionpack (4.2.4) lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call'
+  actionpack (4.2.4) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.4) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.4) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.4) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.4) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.4) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.4) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.4) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.4) lib/action_dispatch/middleware/static.rb:116:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.4) lib/rails/engine.rb:518:in `call'
+  railties (4.2.4) lib/rails/application.rb:165:in `call'
+  rack (1.6.4) lib/rack/urlmap.rb:66:in `block in call'
+  rack (1.6.4) lib/rack/urlmap.rb:50:in `each'
+  rack (1.6.4) lib/rack/urlmap.rb:50:in `call'
+  rack-test (0.6.3) lib/rack/mock_session.rb:30:in `request'
+  rack-test (0.6.3) lib/rack/test.rb:244:in `process_request'
+  rack-test (0.6.3) lib/rack/test.rb:67:in `post'
+  C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/forwardable.rb:183:in `post'
+  capybara (2.7.0) lib/capybara/rack_test/driver.rb:96:in `post'
+  spec/params_spec.rb:52:in `block (3 levels) in <top (required)>'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:236:in `instance_exec'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:236:in `block in run'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:478:in `block in with_around_and_singleton_context_hooks'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:435:in `block in with_around_example_hooks'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:478:in `block in run'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:618:in `block in run_around_example_hooks_for'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:320:in `call'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:320:in `call'
+  spec/params_spec.rb:17:in `block (2 levels) in <top (required)>'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:425:in `instance_exec'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:425:in `instance_exec'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:389:in `execute_with'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:620:in `block (2 levels) in run_around_example_hooks_for'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:320:in `call'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:320:in `call'
+  rspec-rails (3.4.2) lib/rspec/rails/adapters.rb:127:in `block (2 levels) in <module:MinitestLifecycleAdapter>'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:425:in `instance_exec'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:425:in `instance_exec'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:389:in `execute_with'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:620:in `block (2 levels) in run_around_example_hooks_for'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:320:in `call'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:320:in `call'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:621:in `run_around_example_hooks_for'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:478:in `run'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:435:in `with_around_example_hooks'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:478:in `with_around_and_singleton_context_hooks'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:233:in `run'
+  rspec-core (3.4.4) lib/rspec/core/example_group.rb:581:in `block in run_examples'
+  rspec-core (3.4.4) lib/rspec/core/example_group.rb:577:in `map'
+  rspec-core (3.4.4) lib/rspec/core/example_group.rb:577:in `run_examples'
+  rspec-core (3.4.4) lib/rspec/core/example_group.rb:543:in `run'
+  rspec-core (3.4.4) lib/rspec/core/example_group.rb:544:in `block in run'
+  rspec-core (3.4.4) lib/rspec/core/example_group.rb:544:in `map'
+  rspec-core (3.4.4) lib/rspec/core/example_group.rb:544:in `run'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:119:in `block (3 levels) in run_specs'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:119:in `map'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:119:in `block (2 levels) in run_specs'
+  rspec-core (3.4.4) lib/rspec/core/configuration.rb:1680:in `with_suite_hooks'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:118:in `block in run_specs'
+  rspec-core (3.4.4) lib/rspec/core/reporter.rb:77:in `report'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:117:in `run_specs'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:93:in `run'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:78:in `run'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:45:in `invoke'
+  rspec-core (3.4.4) exe/rspec:4:in `<top (required)>'
+  C:/RailsInstaller/Ruby2.1.0/bin/rspec:23:in `load'
+  C:/RailsInstaller/Ruby2.1.0/bin/rspec:23:in `<main>'
+
+
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started POST "/api/races" for 127.0.0.1 at 2016-04-30 22:44:00 -0500
+Processing by Api::RacesController#create as HTML
+  Parameters: {"race"=>{"name"=>"Meager Mile"}}
+  Rendered text template (0.0ms)
+Completed 200 OK in 3ms (Views: 2.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/api/races/57257b807cfc5ae84087cb1c" for 127.0.0.1 at 2016-04-30 22:44:00 -0500
+Processing by Api::RacesController#show as XML
+  Parameters: {"id"=>"57257b807cfc5ae84087cb1c", "race"=>{}}
+  Rendered api/races/race.xml.builder (65.1ms)
+Completed 200 OK in 78ms (Views: 75.1ms | ActiveRecord: 0.0ms)
+Started GET "/api/races/57257b817cfc5ae84087cb1d" for 127.0.0.1 at 2016-04-30 22:44:01 -0500
+Processing by Api::RacesController#show as XML
+  Parameters: {"id"=>"57257b817cfc5ae84087cb1d"}
+  Rendered api/races/error.xml.builder (0.5ms)
+Completed 404 Not Found in 8ms (Views: 4.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.5ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/api/races/57257b817cfc5ae84087cb1e" for 127.0.0.1 at 2016-04-30 22:44:01 -0500
+Processing by Api::RacesController#show as JSON
+  Parameters: {"id"=>"57257b817cfc5ae84087cb1e"}
+  Rendered api/races/race.json.jbuilder (0.0ms)
+Completed 200 OK in 4ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+Started GET "/api/races/57257b817cfc5ae84087cb1f" for 127.0.0.1 at 2016-04-30 22:44:01 -0500
+Processing by Api::RacesController#show as JSON
+  Parameters: {"id"=>"57257b817cfc5ae84087cb1f", "race"=>{}}
+  Rendered api/races/error.json.jbuilder (0.0ms)
+Completed 404 Not Found in 3ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+Started GET "/api/races/57257b817cfc5ae84087cb20" for 127.0.0.1 at 2016-04-30 22:44:01 -0500
+Processing by Api::RacesController#show as TEXT
+  Parameters: {"id"=>"57257b817cfc5ae84087cb20", "race"=>{}}
+  Rendered text template (0.5ms)
+Completed 415 Unsupported Media Type in 6ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/api/races/57257b817cfc5ae84087cb21/results/57257b827cfc5ae84087cd1b" for 127.0.0.1 at 2016-04-30 22:44:02 -0500
+Processing by Api::ResultsController#show as JSON
+  Parameters: {"race_id"=>"57257b817cfc5ae84087cb21", "id"=>"57257b827cfc5ae84087cd1b", "result"=>{}}
+  Rendered api/results/_result.json.jbuilder (9.5ms)
+  Rendered api/results/show.json.jbuilder (11.0ms)
+Completed 200 OK in 18ms (Views: 14.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.5ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started PATCH "/api/races/57257b827cfc5ae84087ce41/results/57257b837cfc5ae84087cf87" for 127.0.0.1 at 2016-04-30 22:44:03 -0500
+Processing by Api::ResultsController#update as JSON
+  Parameters: {"result"=>{"swim"=>900}, "race_id"=>"57257b827cfc5ae84087ce41", "id"=>"57257b837cfc5ae84087cf87"}
+Completed 200 OK in 15ms (Views: 3.0ms | ActiveRecord: 0.0ms)
+Started PATCH "/api/races/57257b827cfc5ae84087ce41/results/57257b837cfc5ae84087cf87" for 127.0.0.1 at 2016-04-30 22:44:03 -0500
+Processing by Api::ResultsController#update as JSON
+  Parameters: {"result"=>{"t1"=>60}, "race_id"=>"57257b827cfc5ae84087ce41", "id"=>"57257b837cfc5ae84087cf87"}
+Completed 200 OK in 23ms (Views: 4.0ms | ActiveRecord: 0.0ms)
+Started PATCH "/api/races/57257b827cfc5ae84087ce41/results/57257b837cfc5ae84087cf87" for 127.0.0.1 at 2016-04-30 22:44:03 -0500
+Processing by Api::ResultsController#update as JSON
+  Parameters: {"result"=>{"bike"=>2400}, "race_id"=>"57257b827cfc5ae84087ce41", "id"=>"57257b837cfc5ae84087cf87"}
+Completed 200 OK in 22ms (Views: 3.5ms | ActiveRecord: 0.0ms)
+Started PATCH "/api/races/57257b827cfc5ae84087ce41/results/57257b837cfc5ae84087cf87" for 127.0.0.1 at 2016-04-30 22:44:03 -0500
+Processing by Api::ResultsController#update as JSON
+  Parameters: {"result"=>{"t2"=>40}, "race_id"=>"57257b827cfc5ae84087ce41", "id"=>"57257b837cfc5ae84087cf87"}
+Completed 200 OK in 21ms (Views: 3.5ms | ActiveRecord: 0.0ms)
+Started PATCH "/api/races/57257b827cfc5ae84087ce41/results/57257b837cfc5ae84087cf87" for 127.0.0.1 at 2016-04-30 22:44:03 -0500
+Processing by Api::ResultsController#update as JSON
+  Parameters: {"result"=>{"run"=>1500}, "race_id"=>"57257b827cfc5ae84087ce41", "id"=>"57257b837cfc5ae84087cf87"}
+Completed 200 OK in 18ms (Views: 4.5ms | ActiveRecord: 0.0ms)
+Started GET "/api/races/57257b827cfc5ae84087ce41/results/57257b837cfc5ae84087cf87" for 127.0.0.1 at 2016-04-30 22:44:03 -0500
+Processing by Api::ResultsController#show as JSON
+  Parameters: {"race_id"=>"57257b827cfc5ae84087ce41", "id"=>"57257b837cfc5ae84087cf87", "result"=>{}}
+  Rendered api/results/_result.json.jbuilder (5.0ms)
+  Rendered api/results/show.json.jbuilder (5.5ms)
+Completed 200 OK in 11ms (Views: 6.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.5ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/api/races/57257b837cfc5ae84087cf96/results" for 127.0.0.1 at 2016-04-30 22:44:04 -0500
+Processing by Api::ResultsController#index as JSON
+  Parameters: {"race_id"=>"57257b837cfc5ae84087cf96", "result"=>{}}
+  Rendered api/results/_result.json.jbuilder (10.0ms)
+  Rendered api/results/_result.json.jbuilder (9.0ms)
+  Rendered api/results/_result.json.jbuilder (11.5ms)
+  Rendered api/results/_result.json.jbuilder (9.0ms)
+  Rendered api/results/_result.json.jbuilder (11.5ms)
+  Rendered api/results/_result.json.jbuilder (10.0ms)
+  Rendered api/results/index.json.jbuilder (67.6ms)
+Completed 200 OK in 72ms (Views: 67.6ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.5ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/api/races/57257b847cfc5ae84087d1c6/results" for 127.0.0.1 at 2016-04-30 22:44:06 -0500
+Processing by Api::ResultsController#index as JSON
+  Parameters: {"race_id"=>"57257b847cfc5ae84087d1c6", "result"=>{}}
+  Rendered api/results/index.json.jbuilder (2.0ms)
+Completed 200 OK in 9ms (Views: 3.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+Started GET "/api/racers" for 127.0.0.1 at 2016-04-30 22:44:06 -0500
+Processing by Api::RacersController#index as HTML
+  Parameters: {"racer"=>{}}
+  Rendered text template (0.0ms)
+Completed 200 OK in 2ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+Started GET "/api/racers/abc" for 127.0.0.1 at 2016-04-30 22:44:06 -0500
+Processing by Api::RacersController#show as HTML
+  Parameters: {"id"=>"abc", "racer"=>{}}
+  Rendered text template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.0ms | ActiveRecord: 0.0ms)
+Started GET "/api/racers/abc/entries" for 127.0.0.1 at 2016-04-30 22:44:06 -0500
+Processing by Api::EntriesController#index as HTML
+  Parameters: {"racer_id"=>"abc", "entry"=>{}}
+  Rendered text template (0.0ms)
+Completed 200 OK in 2ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+Started GET "/api/racers/abc/entries/def" for 127.0.0.1 at 2016-04-30 22:44:06 -0500
+Processing by Api::EntriesController#show as HTML
+  Parameters: {"racer_id"=>"abc", "id"=>"def", "entry"=>{}}
+  Rendered text template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+Started GET "/api/races" for 127.0.0.1 at 2016-04-30 22:44:06 -0500
+Processing by Api::RacesController#index as HTML
+  Parameters: {"race"=>{}}
+  Rendered text template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.0ms | ActiveRecord: 0.0ms)
+Started GET "/api/races/abc" for 127.0.0.1 at 2016-04-30 22:44:06 -0500
+Processing by Api::RacesController#show as HTML
+  Parameters: {"id"=>"abc", "race"=>{}}
+  Rendered text template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+Started GET "/api/races/abc/results" for 127.0.0.1 at 2016-04-30 22:44:06 -0500
+Processing by Api::ResultsController#index as HTML
+  Parameters: {"race_id"=>"abc", "result"=>{}}
+  Rendered text template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+Started GET "/api/races/abc/results/def" for 127.0.0.1 at 2016-04-30 22:44:06 -0500
+Processing by Api::ResultsController#show as HTML
+  Parameters: {"race_id"=>"abc", "id"=>"def", "result"=>{}}
+  Rendered text template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/api/races/abc/foo/def" for 127.0.0.1 at 2016-04-30 22:44:06 -0500
+
+ActionController::RoutingError (No route matches [GET] "/api/races/abc/foo/def"):
+  actionpack (4.2.4) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.2.4) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.4) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.4) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.4) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.4) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.4) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.4) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.4) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.4) lib/action_dispatch/middleware/static.rb:116:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.4) lib/rails/engine.rb:518:in `call'
+  railties (4.2.4) lib/rails/application.rb:165:in `call'
+  rack (1.6.4) lib/rack/urlmap.rb:66:in `block in call'
+  rack (1.6.4) lib/rack/urlmap.rb:50:in `each'
+  rack (1.6.4) lib/rack/urlmap.rb:50:in `call'
+  rack-test (0.6.3) lib/rack/mock_session.rb:30:in `request'
+  rack-test (0.6.3) lib/rack/test.rb:244:in `process_request'
+  rack-test (0.6.3) lib/rack/test.rb:58:in `get'
+  C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/forwardable.rb:183:in `get'
+  capybara (2.7.0) lib/capybara/rack_test/driver.rb:95:in `get'
+  spec/uri_spec.rb:59:in `block (3 levels) in <top (required)>'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:236:in `instance_exec'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:236:in `block in run'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:478:in `block in with_around_and_singleton_context_hooks'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:435:in `block in with_around_example_hooks'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:478:in `block in run'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:618:in `block in run_around_example_hooks_for'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:320:in `call'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:320:in `call'
+  spec/uri_spec.rb:18:in `block (2 levels) in <top (required)>'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:425:in `instance_exec'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:425:in `instance_exec'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:389:in `execute_with'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:620:in `block (2 levels) in run_around_example_hooks_for'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:320:in `call'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:320:in `call'
+  rspec-rails (3.4.2) lib/rspec/rails/adapters.rb:127:in `block (2 levels) in <module:MinitestLifecycleAdapter>'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:425:in `instance_exec'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:425:in `instance_exec'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:389:in `execute_with'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:620:in `block (2 levels) in run_around_example_hooks_for'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:320:in `call'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:320:in `call'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:621:in `run_around_example_hooks_for'
+  rspec-core (3.4.4) lib/rspec/core/hooks.rb:478:in `run'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:435:in `with_around_example_hooks'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:478:in `with_around_and_singleton_context_hooks'
+  rspec-core (3.4.4) lib/rspec/core/example.rb:233:in `run'
+  rspec-core (3.4.4) lib/rspec/core/example_group.rb:581:in `block in run_examples'
+  rspec-core (3.4.4) lib/rspec/core/example_group.rb:577:in `map'
+  rspec-core (3.4.4) lib/rspec/core/example_group.rb:577:in `run_examples'
+  rspec-core (3.4.4) lib/rspec/core/example_group.rb:543:in `run'
+  rspec-core (3.4.4) lib/rspec/core/example_group.rb:544:in `block in run'
+  rspec-core (3.4.4) lib/rspec/core/example_group.rb:544:in `map'
+  rspec-core (3.4.4) lib/rspec/core/example_group.rb:544:in `run'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:119:in `block (3 levels) in run_specs'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:119:in `map'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:119:in `block (2 levels) in run_specs'
+  rspec-core (3.4.4) lib/rspec/core/configuration.rb:1680:in `with_suite_hooks'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:118:in `block in run_specs'
+  rspec-core (3.4.4) lib/rspec/core/reporter.rb:77:in `report'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:117:in `run_specs'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:93:in `run'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:78:in `run'
+  rspec-core (3.4.4) lib/rspec/core/runner.rb:45:in `invoke'
+  rspec-core (3.4.4) exe/rspec:4:in `<top (required)>'
+  C:/RailsInstaller/Ruby2.1.0/bin/rspec:23:in `load'
+  C:/RailsInstaller/Ruby2.1.0/bin/rspec:23:in `<main>'
+
+
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started POST "/api/races" for 127.0.0.1 at 2016-04-30 22:44:06 -0500
+Processing by Api::RacesController#create as HTML
+  Parameters: {"race"=>{}}
+  Rendered text template (0.0ms)
+Completed 200 OK in 2ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
